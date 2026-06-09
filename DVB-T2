@@ -80,7 +80,7 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=201
 https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv3-hd-cf3adaca
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv4.png", SCTV4
 https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv4-ae779f7e
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV5.jpg", SCTV5
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://yt3.ggpht.com/YwEMDGiD0FLQrKiGHMlduVQbz7yAudYG9J9n1MdJI88ddxbFw6C5RKNvRsOe6tLNReyt5jIAIgg=s176-c-k-c0x00ffffff-no-rj-mo", SCTV5 - SCJ TV SHOPPING
 https://hoiquan.dpdns.org/VTVGo/?sctv5
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6
 #EXTVLCOPT:http-user-agent=VThanhTivi
