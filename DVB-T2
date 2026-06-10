@@ -239,6 +239,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=55
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/KTV_KhanhHoa.png", Khánh Hòa
 https://freem3u.xyz/api/live/play.m3u8?vid=65
 #EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png", Huế
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.huetv.com.vn/TRT-Online/chunklist.m3u8
 #EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TayNinhTV.jpg", Tây Ninh
 https://freem3u.xyz/api/live/play.m3u8?vid=72
