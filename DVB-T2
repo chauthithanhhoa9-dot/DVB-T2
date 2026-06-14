@@ -40,9 +40,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=180
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
 #EXTINF:-1 tvg-id="onsportshd" group-title="VTVcab" tvg-logo="https://image3.vnmedia.xyz/logo/on-sports.jpg", ON Sports HD
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=173
-#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbKzhqP-FzcQhQyQHWBPNwXnCM1DMON_A8aA&s", On Movies - You TV
+#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbKzhqP-FzcQhQyQHWBPNwXnCM1DMON_A8aA&s", On Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onechannel.png", ON E- Channel
+#EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onechannel.png", ON Echannel
 https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:-1 tvg-id="onsports+" group-title="VTVcab" tvg-logo="https://image3.vnmedia.xyz/logo/on-sportsplus.jpg", ON Sports+
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=183
