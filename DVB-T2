@@ -283,7 +283,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=68
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=76
 #EXTINF:-1 tvg-id="quangngai" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/QNgTV.png/revision/latest?cb=20260114105729&path-prefix=vi", Quảng Ngãi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-id="quangngai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/QNgTV2_QuangNgai.png", QNgTV2 - Báo và PTTH Quảng Ngãi
+#EXTINF:-1 tvg-id="quangngai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/QNgTV2_QuangNgai.png", Quảng Ngãi 2
 https://freem3u.xyz/api/live/play.m3u8?vid=81
 http://vpsttt.vietanhtv.top/tv360/tv360.php?id=173
 #EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/10/03/1683663305895/0f3f1e5bd284_640_360.png", Tuyên Quang
