@@ -365,7 +365,7 @@ http://27.12.12.105:1234/849116810
 #EXTINF:-1 tvg-id="gansu" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/gansu.png", 甘肃卫视
 http://113.25.252.226:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="guangdong" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/guangdong.png", 广东卫视
-http://204.12.221.218:8181/3m1080p/gdws.m3u8
+http://222.90.21.30:9901/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="guangxi" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/guangxi.png", 广西卫视
 http://60.10.139.113:8801/hls/52/index.m3u8
 #EXTINF:-1 tvg-id="guizhou" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/guizhou.png", 贵州卫视
