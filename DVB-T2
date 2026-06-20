@@ -336,9 +336,9 @@ http://74.91.26.218:82/live/cctv15hd.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="cctv17" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv17.png", CCTV-17农业农村
 http://74.91.26.218:82/live/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="cctv4k" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv4k.png", CCTV4K
+#EXTINF:-1 tvg-id="cctv4k" group-title="Trung Quốc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwO6Em5sIfULzIUmbrqbrR7-i4cdCoS8or6FhGDvVaA&s", CCTV4K
 http://198.204.240.250:82/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="cctv8k" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv8k.png", CCTV8K
+#EXTINF:-1 tvg-id="cctv8k" group-title="Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/CCTV8K.png/revision/latest/scale-to-width-down/1200?cb=20230104110835&path-prefix=vi", CCTV8K
 http://198.204.240.250:82/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="anhui" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/anhui.png", 安徽卫视
 http://207.56.13.146:81/cdnlive/ahws.m3u8
@@ -346,8 +346,6 @@ http://207.56.13.146:81/cdnlive/ahws.m3u8
 http://198.204.228.26/live/btws.m3u8
 #EXTINF:-1 tvg-id="btv1" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/btv1.png", 北京卫视
 http://110.244.139.249:7788/630287636
-#EXTINF:-1 tvg-id="btv4k" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/btv4k.png", 北京卫视4K
-http://120.211.62.180:8000/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="btvchild" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/btvchild.png", BRTV卡酷少儿
 http://38.75.136.137:98/gslb/dsdqpub/btvkk.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="cetv1" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cetv1.png", CETV-1
@@ -368,7 +366,7 @@ http://27.12.12.105:1234/849116810
 http://113.25.252.226:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="guangdong" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/guangdong.png", 广东卫视
 http://198.204.229.234:82/live/gdwshd.m3u8
-#EXTINF:-1 tvg-id="guangxi" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logoguangxi/.png", 广西卫视
+#EXTINF:-1 tvg-id="guangxi" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/guangxi.png", 广西卫视
 http://60.10.139.113:8801/hls/52/index.m3u8
 #EXTINF:-1 tvg-id="guizhou" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/guizhou.png", 贵州卫视
 http://60.10.139.113:8801/hls/36/index.m3u8
