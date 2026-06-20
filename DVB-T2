@@ -422,19 +422,19 @@ https://srs.iyb983.cn/video/CYS/index.m3u8
 http://198.204.228.26/live/ynwshd.m3u8
 #EXTINF:-1 tvg-id="zhejiang" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/zhejiang.png", 浙江卫视
 http://198.204.228.26/live/zjwshd.m3u8
-#EXTINF:-1 tvg-id="ddnationalhd" group-title="Ấn Độ" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/DD_National_HD_logo_2024.png/revision/latest/scale-to-width-down/180?cb=20240120091548&path-prefix=vi", DD National HD
+#EXTINF:-1 tvg-id="ddnationalhd" group-title="DD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/DD_National_HD_logo_2024.png/revision/latest/scale-to-width-down/180?cb=20240120091548&path-prefix=vi", DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1 tvg-id="ddurdu" group-title="Ấn Độ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/DD_Urdu_new.jpeg/revision/latest?cb=20191229180017", DD Urdu
+#EXTINF:-1 tvg-id="ddurdu" group-title="DD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/DD_Urdu_new.jpeg/revision/latest?cb=20191229180017", DD Urdu
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
-#EXTINF:-1 tvg-id="ddindia" group-title="Ấn Độ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/DD_India_2019.jpg/revision/latest/scale-to-width-down/300?cb=20240319181256", DD INDIA
+#EXTINF:-1 tvg-id="ddindia" group-title="DD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/DD_India_2019.jpg/revision/latest/scale-to-width-down/300?cb=20240319181256", DD INDIA
 https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8
-#EXTINF:-1 tvg-id="ddnational" group-title="Ấn Độ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png/revision/latest?cb=20230823123341", DD National
+#EXTINF:-1 tvg-id="ddnational" group-title="DD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png/revision/latest?cb=20230823123341", DD National
 http://cdn-1.pishow.tv/live/11/master.m3u8
-#EXTINF:-1 tvg-id="ddnews" group-title="Ấn Độ" tvg-logo=https://static.wikia.nocookie.net/logopedia/images/d/d6/DD_News_new_logo_2024.jpg/revision/latest?cb=20240417164659", DD News
+#EXTINF:-1 tvg-id="ddnews" group-title="DD" tvg-logo=https://static.wikia.nocookie.net/logopedia/images/d/d6/DD_News_new_logo_2024.jpg/revision/latest?cb=20240417164659", DD News
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
-#EXTINF:-1 tvg-id="ddsports" group-title="Ấn Độ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Dd-sports.png/revision/latest/scale-to-width-down/300?cb=20230126170013", DD Sports
+#EXTINF:-1 tvg-id="ddsports" group-title="DD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Dd-sports.png/revision/latest/scale-to-width-down/300?cb=20230126170013", DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 tvg-id="ddbharati" group-title="Ấn Độ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/DD_Bharati_english.png/revision/latest/scale-to-width-down/177?cb=20230610233722", DD Bharati
+#EXTINF:-1 tvg-id="ddbharati" group-title="DD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/DD_Bharati_english.png/revision/latest/scale-to-width-down/177?cb=20230610233722", DD Bharati
 http://cdn-1.pishow.tv/live/10/master.m3u8
-#EXTINF:-1 tvg-id="ddkisan" group-title="Ấn Độ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/DD_Kisan.jpg/revision/latest/scale-to-width-down/170?cb=20240318091105", DD Kisan
+#EXTINF:-1 tvg-id="ddkisan" group-title="DD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/DD_Kisan.jpg/revision/latest/scale-to-width-down/170?cb=20240318091105", DD Kisan
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
