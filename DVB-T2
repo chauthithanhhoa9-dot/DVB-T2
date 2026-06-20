@@ -406,4 +406,19 @@ http://198.204.228.26/live/snwshd.m3u8
 http://198.204.228.26/live/szwshd.m3u8
 #EXTINF:-1 tvg-id="sichuan" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/sichuan.png", 四川卫视
 http://207.56.13.146:81/cdnlive/scws.m3u8 
-ok
+#EXTINF:-1 tvg-id="tianjin" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/tianjin.png", 天津卫视
+http://198.204.228.26/live/tjwshd.m3u8
+#EXTINF:-1 tvg-id="travel" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/travel.png", 海南卫视
+http://27.12.12.105:1234/947472502
+#EXTINF:-1 tvg-id="xiamen" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/xiamen.png", 厦门卫视
+http://198.204.228.26/live/xmws.m3u8
+#EXTINF:-1 tvg-id="xinjiang" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/xinjiang.png", 新疆卫视
+http://207.56.13.146:81/cdnlive/xjws.m3u8
+#EXTINF:-1 tvg-id="xizang" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/xizang.png", 西藏卫视
+http://198.204.228.26/live/xzws.m3u8
+#EXTINF:-1 tvg-id="yanbian" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/yanbian.png", 延边卫视
+https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 tvg-id="yunnan" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/yunnan.png", 云南卫视
+http://198.204.228.26/live/ynwshd.m3u8
+#EXTINF:-1 tvg-id="zhejiang" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/zhejiang.png", 浙江卫视
+http://198.204.228.26/live/zjwshd.m3u8
