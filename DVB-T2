@@ -380,3 +380,29 @@ http://198.204.228.26/live/hawshd.m3u8
 http://198.204.228.26/live/hbwshd.m3u8
 #EXTINF:-1 tvg-id="hunan" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/hunan.png", 湖南卫视
 http://74.91.26.218:82/live/hnwshd.m3u8
+#EXTINF:-1 tvg-id="jiangsu" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/jiangsu.png", 江苏卫视
+http://198.204.228.26/live/jswshd.m3u8
+#EXTINF:-1 tvg-id="jiangxi" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/jiangxi.png", 江西卫视
+http://198.204.228.26/live/jxwshd.m3u8
+#EXTINF:-1 tvg-id="jilin" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/jilin.png", 吉林卫视
+http://107.150.60.122/live/jlwshd.m3u8
+#EXTINF:-1 tvg-id="liaoning" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/liaoning.png", 辽宁卫视
+http://198.204.228.26/live/lnwshd.m3u8
+#EXTINF:-1 tvg-id="neimenggu" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/neimenggu.png", 内蒙古卫视
+http://222.90.21.30:9901/hls/40/index.m3u8
+#EXTINF:-1 tvg-id="ningxia" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/ningxia.png", 宁夏卫视
+http://198.204.228.26/live/nxws.m3u8
+#EXTINF:-1 tvg-id="qinghai" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/qinghai.png", 青海卫视
+http://198.204.228.26/live/qhws.m3u8
+#EXTINF:-1 tvg-id="sdetv" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/sdetv.png", 山东教育台
+http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#EXTINF:-1 tvg-id="shandong" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/shandong.png", 山东卫视
+http://153.0.171.163:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="shan1xi" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/shan1xi.png", 山西卫视
+http://198.204.228.26/live/sxwshd.m3u8
+#EXTINF:-1 tvg-id="shan3xi" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/shan3xi.png", 陕西卫视
+http://198.204.228.26/live/snwshd.m3u8
+#EXTINF:-1 tvg-id="shenzhen" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/shenzhen.png", 深圳卫视
+http://198.204.228.26/live/szwshd.m3u8
+#EXTINF:-1 tvg-id="sichuan" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/sichuan.png", 四川卫视
+http://207.56.13.146:81/cdnlive/scws.m3u8 
