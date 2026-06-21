@@ -366,7 +366,7 @@ http://27.12.12.105:1234/849116810
 #EXTINF:-1 tvg-id="gansu" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/gansu.png", 甘肃卫视
 http://113.25.252.226:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="guangdong" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/guangdong.png", 广东卫视
-http://222.90.21.30:9901/hls/22/index.m3u8
+http://198.204.228.26/live/gdwshd.m3u8
 #EXTINF:-1 tvg-id="guangxi" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/guangxi.png", 广西卫视
 http://60.10.139.113:8801/hls/52/index.m3u8
 #EXTINF:-1 tvg-id="guizhou" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/guizhou.png", 贵州卫视
@@ -374,11 +374,11 @@ http://60.10.139.113:8801/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="hebei" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/hebei.png", 河北卫视
 http://60.10.139.113:8801/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="heilongjiang" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/heilongjiang.png", 黑龙江卫视
-http://60.10.139.113:8801/hls/27/index.m3u8
+http://198.204.228.26/live/hljwshd.m3u8
 #EXTINF:-1 tvg-id="henan" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/henan.png", 河南卫视
 http://198.204.228.26/live/hawshd.m3u8
 #EXTINF:-1 tvg-id="hubei" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/hubei.png", 湖北卫视
-http://153.0.171.163:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+http://60.10.139.113:8801/hls/29/index.m3u8
 #EXTINF:-1 tvg-id="hunan" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/hunan.png", 湖南卫视
 http://74.91.26.218:82/live/hnwshd.m3u8
 #EXTINF:-1 tvg-id="jiangsu" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/jiangsu.png", 江苏卫视
@@ -386,7 +386,7 @@ http://198.204.228.26/live/jswshd.m3u8
 #EXTINF:-1 tvg-id="jiangxi" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/jiangxi.png", 江西卫视
 http://198.204.228.26/live/jxwshd.m3u8
 #EXTINF:-1 tvg-id="jilin" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/jilin.png", 吉林卫视
-http://153.0.171.163:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.140.13.12:1234/947472500
 #EXTINF:-1 tvg-id="liaoning" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/liaoning.png", 辽宁卫视
 http://198.204.228.26/live/lnwshd.m3u8
 #EXTINF:-1 tvg-id="neimenggu" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/neimenggu.png", 内蒙古卫视
@@ -398,7 +398,7 @@ http://198.204.228.26/live/qhws.m3u8
 #EXTINF:-1 tvg-id="sdetv" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/sdetv.png", 山东教育台
 http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 #EXTINF:-1 tvg-id="shandong" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/shandong.png", 山东卫视
-http://153.0.171.163:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+https://live.264788.xyz/channel/shandongweishi?streamid=1920e8715db79dca740ef1828b665c11&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="shan1xi" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/shan1xi.png", 山西卫视
 http://198.204.228.26/live/sxwshd.m3u8
 #EXTINF:-1 tvg-id="shan3xi" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/shan3xi.png", 陕西卫视
@@ -408,7 +408,7 @@ http://198.204.228.26/live/szwshd.m3u8
 #EXTINF:-1 tvg-id="sichuan" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/sichuan.png", 四川卫视
 http://207.56.13.146:81/cdnlive/scws.m3u8 
 #EXTINF:-1 tvg-id="tianjin" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/tianjin.png", 天津卫视
-http://198.204.228.26/live/tjwshd.m3u8
+http://60.10.139.113:8801/hls/23/index.m3u8
 #EXTINF:-1 tvg-id="travel" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/travel.png", 海南卫视
 http://27.12.12.105:1234/947472502
 #EXTINF:-1 tvg-id="xiamen" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/xiamen.png", 厦门卫视
