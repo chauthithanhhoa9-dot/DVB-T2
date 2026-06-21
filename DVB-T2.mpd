@@ -362,7 +362,7 @@ http://182.61.15.163:80/738910914
 #EXTINF:-1 tvg-id="dongfang" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/dongfang.png", 东方卫视
 http://74.91.26.218:82/live/dfwshd.m3u8
 #EXTINF:-1 tvg-id="dongnan" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/dongnan.png", 东南卫视
-http://27.12.12.105:1234/849116810
+http://207.56.13.146:81/cdnlive/dnws.m3u8
 #EXTINF:-1 tvg-id="gansu" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/gansu.png", 甘肃卫视
 http://113.25.252.226:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="guangdong" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/guangdong.png", 广东卫视
