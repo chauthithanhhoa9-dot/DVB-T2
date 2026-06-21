@@ -310,9 +310,9 @@ http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="cctv4" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv4.png", CCTV-4 (亚洲)
 http://74.91.26.218:82/live/cctv4hd.m3u8
  #EXTINF:-1 tvg-id="cctv5" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv5.png", CCTV-5 体育
-http://74.91.26.218:82/live/cctv5hd.m3u8
+http://198.204.228.26/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="cctv5plus" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv5plus.png", CCTV-5+ 体育赛事
-http://74.91.26.218:82/live/cctv5p.m3u8
+http://198.204.228.26/live/cctv5p.m3u8
 #EXTINF:-1 tvg-id="cctv6" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv6.png", CCTV-6 电影
 http://74.91.26.218:82/live/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="cctv7" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv7.png", CCTV-7 国防军事
