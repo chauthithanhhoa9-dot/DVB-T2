@@ -334,7 +334,7 @@ http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="cctv15" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv15.png", CCTV-15 音乐
 http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-id="cctv16" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv16.png", CCTV-16奥林匹克
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="cctv17" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv17.png", CCTV-17农业农村
 http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="cctv4k" group-title="Trung Quốc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwO6Em5sIfULzIUmbrqbrR7-i4cdCoS8or6FhGDvVaA&s", CCTV4K
