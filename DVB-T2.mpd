@@ -461,3 +461,9 @@ http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
 http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
 #EXTINF:-1 tvg-id="seatv" group-title="Campuchia" tvg-logo="https://i.imgur.com/oZPorvg.png", SEA TV
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-id="laosvtv" group-title="Lào" tvg-logo="https://i.imgur.com/ZIXtazI.png", Lao SV TV
+https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="teatv" group-title="Lào" tvg-logo="https://i.imgur.com/WorbnyD.jpeg", Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="uniquelythai" group-title="Lào" tvg-logo="https://i.imgur.com/cTSDB8O.png", Uniquely Thai
+https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
