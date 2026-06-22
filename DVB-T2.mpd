@@ -6,39 +6,39 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz"
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv1-manifest.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Xl9VcebZ3NRMiPeS_D1jyVvLI9eNIX__cQ&s" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv2-manifest.m3u8
+http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuFaeDm8Td2wtRJOEL512wBMzo137UWHzvxA&s" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}, VTV3
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv3-manifest.m3u8
+http://125hvt.ddns.net:21585/vtv3/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png" catchup="append" catchup-days="2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=378&time=${start}&offset=${duration}, VTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=108
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/b5/5c/cc/c2/22/29/b5cc2-pvtv5hd-channel-unkn.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=379&time=${start}&offset=${duration}, VTV5
 #EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5-manifest.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=110
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLx1ljdHso9BPl3p8FOKjmolvEu9qSV7roYw&s" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=615&time=${start}&offset=${duration}, VTV5 - Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tnb-manifest.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=157
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://s7730.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=642&time=${start}&offset=${duration}, VTV5 - Tây Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tn-manifest.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=207
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6
 http://125hvt.ddns.net:21585/vtv6/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ipXo6X4tMW4aWlRc5P-i-s0h1z5VzStDAw&s" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=459&time=${start}&offset=${duration}, VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv7-manifest.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=6
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vtv8.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=380&time=${start}&offset=${duration}, VTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv8-manifest.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=115
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3CkdhXkkPD6qo3rxgCxMUj2EpY23znIx-g&s" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}", VTV9
-#EXTVLCOhttps://live-a.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8PT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv9-manifest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VTV10.png", VTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv6-manifest.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=98
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
-http://vtvgolive-failover.vtvdigital.vn/vtvgo/vietnamtoday-manifest.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9951
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg", ON Vie Giải Trí
 http://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ONPHIMVIET.png", ON Phim Việt
