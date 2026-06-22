@@ -459,7 +459,7 @@ http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m
 http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
 #EXTINF:-1 tvg-id="ctv9hd" group-title="Campuchia" tvg-logo="https://i.imgur.com/jgVJt2G.png", CTV9 HD
 http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
-#EXTINF:-1 tvg-id="seatv" group-title="Campuchia" tvg-logo="https://i.imgur.com/oZPorvg.png", SEA TV
+#EXTINF:-1 tvg-id="seatvkhmer" group-title="Campuchia" tvg-logo="https://i.imgur.com/oZPorvg.png", SEA TV Khmer
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="laosvtv" group-title="Lào" tvg-logo="https://i.imgur.com/ZIXtazI.png", Lao SV TV
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
