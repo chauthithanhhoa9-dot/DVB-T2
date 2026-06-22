@@ -505,3 +505,7 @@ https://mini.allinonereborn.fun/tata.php?id=11607
 https://mini.allinonereborn.fun/tata.php?id=11608
 #EXTINF:-1 tvg-id="vasanthamtv" group-title="Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/Vasanthamtv_channel.jpg", Vasantham TV
 https://mini.allinonereborn.fun/tata.php?id=11610
+#EXTINF:-1 tvg-id="8tv.my" group-title="Malaysia" tvg-logo="https://i.imgur.com/Jkx9W88.png", 8TV
+http://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 tvg-id="maahtv" group-title="Malaysia" tvg-logo="https://i.imgur.com/FkyueH6.png", Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
