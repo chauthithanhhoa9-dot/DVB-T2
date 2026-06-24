@@ -472,7 +472,7 @@ http://198.204.228.26/live/xmws.m3u8
 #EXTINF:-1 tvg-id="xinjiang" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/xinjiang.png", 新疆卫视
 http://207.56.13.146:81/cdnlive/xjws.m3u8
 #EXTINF:-1 tvg-id="xizang" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/xizang.png", 西藏卫视
-http://198.204.228.26/live/xzws.m3u8
+http://222.90.21.30:9901/hls/90/index.m3u8
 #EXTINF:-1 tvg-id="yanbian" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/yanbian.png", 延边卫视
 https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 tvg-id="yunnan" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/yunnan.png", 云南卫视
