@@ -565,3 +565,11 @@ http://cdn6.163189.xyz/163189/8tv
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1 tvg-id="maahtv.my" group-title="Malaysia" tvg-logo="https://i.imgur.com/FkyueH6.png", Maah TV
 https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="mrtvnrc" group-title="Myanmar" tvg-logo="https://i.imgur.com/5aLFslk.png", MRTV NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
+#EXTINF:-1 tvg-id="fortunetvhd" group-title="Myanmar" tvg-logo="https://i.imgur.com/MM5evnD.png", Fortune TV HD
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
+#EXTINF:-1 tvg-id="mrtventertainment" group-title="Myanmar" tvg-logo="https://i.imgur.com/c9q6oT0.png", MRTV ENTERTAINMENT
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+#EXTINF:-1 tvg-id="dvbtv" group-title="Myanmar" tvg-logo="https://i.imgur.com/VdezHOv.png", DVB TV
+https://live-stream.dvb.no/hls/stream_src/index.m3u8
