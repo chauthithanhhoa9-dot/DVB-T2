@@ -444,7 +444,7 @@ http://113.141.220.55:9901/tsfile/live/0138_1.m3u8
 #EXTINF:-1 tvg-id="jilin" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/jilin.png", 吉林卫视
 http://222.140.13.12:1234/947472500
 #EXTINF:-1 tvg-id="liaoning" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/liaoning.png", 辽宁卫视
-http://198.204.228.26/live/lnwshd.m3u8
+http://60.10.139.113:8801/hls/28/index.m3u8
 #EXTINF:-1 tvg-id="neimenggu" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/neimenggu.png", 内蒙古卫视
 http://222.90.21.30:9901/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="ningxia" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/ningxia.png", 宁夏卫视
