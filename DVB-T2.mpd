@@ -169,7 +169,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv22
 https://hoiquan.dpdns.org/VTVGo/?sctvphim
 #EXTINF:-1 group-title="Mua sắm" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/SCJ_TV_Shopping.png/revision/latest?cb=20220130122308&path-prefix=vi", SCJ TV SHOPPING
 https://hoiquan.dpdns.org/VTVGo/?sctv5
-#EXTINF:-1 group-title="Mua sắm" tvg-logo="https://yt3.ggpht.com/AXwDfPjjo83C2f6_pKhzbS7rVAR-Nu6bDEfUubGM_SrcSXYrXUjqMkaMC5qkgmkWzBpEYYiojMM=s68-c-k-c0x00ffffff-no-rj", SCTV10 - HappyMall
+#EXTINF:-1 group-title="Mua sắm" tvg-logo="https://yt3.ggpht.com/AXwDfPjjo83C2f6_pKhzbS7rVAR-Nu6bDEfUubGM_SrcSXYrXUjqMkaMC5qkgmkWzBpEYYiojMM=s68-c-k-c0x00ffffff-no-rj", HappyMall
 https://hoiquan.dpdns.org/VTVGo/?sctv10
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1
 http://vpsttt.vietanhtv.top/tv360/tv360.php?id=190
