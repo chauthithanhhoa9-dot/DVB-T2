@@ -45,12 +45,22 @@ http://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ONPHIMVIET.png", ON Phim Việt
 http://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
 #EXTINF:-1 tvg-id="onsportshd" group-title="VTVcab" tvg-logo="https://image3.vnmedia.xyz/logo/on-sports.jpg", ON Sports HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BASE64_URL_KEY_ID","k":"BASE64_URL_DECRYPTION_KEY"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
 http://vpsttt.vietanhtv.top/tv360/tv360.php?id=174
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbKzhqP-FzcQhQyQHWBPNwXnCM1DMON_A8aA&s", On Movies
 http://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onechannel.png", ON Echannel
 http://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
 #EXTINF:-1 tvg-id="onsports+" group-title="VTVcab" tvg-logo="https://image3.vnmedia.xyz/logo/on-sportsplus.jpg", ON Sports+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BASE64_URL_KEY_ID","k":"BASE64_URL_DECRYPTION_KEY"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
 http://vpsttt.vietanhtv.top/tv360/tv360.php?id=183
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ono2tv.png", On O2TV
 http://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
@@ -65,11 +75,21 @@ http://vpsttt.vietanhtv.top/tv360/tv360.php?id=184
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", On Music
 http://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
 #EXTINF:-1 tvg-id="onfootballhd" group-title="VTVcab" tvg-logo="https://image2.vnmedia.xyz/logo/on-football.jpg", ON Football HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BASE64_URL_KEY_ID","k":"BASE64_URL_DECRYPTION_KEY"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="Mozilla/5.0
 http://vpsttt.vietanhtv.top/tv360/tv360.php?id=174
 #EXTINF:-1 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON TRENDING TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://image3.vnmedia.xyz/logo/on-sportsnews.jpg", ON Sports News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BASE64_URL_KEY_ID","k":"BASE64_URL_DECRYPTION_KEY"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
 http://vpsttt.vietanhtv.top/tv360/tv360.php?id=170
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
