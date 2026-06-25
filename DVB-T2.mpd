@@ -495,7 +495,7 @@ http://207.56.13.146:81/cdnlive/scws.m3u8
 #EXTINF:-1 tvg-id="tianjin" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/tianjin.png", 天津卫视
 http://60.10.139.113:8801/hls/23/index.m3u8
 #EXTINF:-1 tvg-id="travel" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/travel.png", 海南卫视
-http://27.12.12.105:1234/947472502
+http://116.236.204.18:1234/947472502
 #EXTINF:-1 tvg-id="xiamen" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/xiamen.png", 厦门卫视
 http://198.204.228.26/live/xmws.m3u8
 #EXTINF:-1 tvg-id="xinjiang" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/xinjiang.png", 新疆卫视
