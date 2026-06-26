@@ -1,0 +1,220 @@
+#EXTINF:-1 tvg-id="cctv1" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv1.png", CCTV-1 综合
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="cctv2" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv2.png", CCTV-2 财经
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 tvg-id="cctv3" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv3.png", CCTV-3 综艺
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="cctv4" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv4.png", CCTV-4 (亚洲)
+http://74.91.26.218:82/live/cctv4hd.m3u8
+ #EXTINF:-1 tvg-id="cctv5" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv5.png", CCTV-5 体育
+http://198.204.228.26/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="cctv5plus" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv5plus.png", CCTV-5+ 体育赛事
+http://198.204.228.26/live/cctv5p.m3u8
+#EXTINF:-1 tvg-id="cctv6" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv6.png", CCTV-6 电影
+http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="cctv7" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv7.png", CCTV-7 国防军事
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="cctv8" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv8.png", CCTV-8 电视剧
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-id="cctv9" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctvjilu.png", CCTV-9 纪录
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="cctv10" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv10.png", CCTV-10 科教
+http://198.204.228.26/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-id="cctv11" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv11.png", CCTV-11 戏曲
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-id="cctv12" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv12.png", CCTV-12 社会与法
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 tvg-id="cctv13" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv13.png", CCTV-13 新闻
+http://198.204.228.26/live/cctv13hd.m3u8
+#EXTINF:-1 tvg-id="cctv14" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctvchild.png", CCTV-14 少儿
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-id="cctv15" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv15.png", CCTV-15 音乐
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-id="cctv16" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv16.png", CCTV-16奥林匹克
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="cctv17" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cctv17.png", CCTV-17农业农村
+http://198.204.228.26/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-id="cctv4k" group-title="Trung Quốc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwO6Em5sIfULzIUmbrqbrR7-i4cdCoS8or6FhGDvVaA&s", CCTV4K
+http://198.204.240.250:82/live/cctv4k.m3u8
+#EXTINF:-1 tvg-id="cctv8k" group-title="Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/CCTV8K.png/revision/latest/scale-to-width-down/1200?cb=20230104110835&path-prefix=vi", CCTV8K
+http://198.204.240.250:82/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="anhui" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/anhui.png", 安徽卫视
+http://207.56.13.146:81/cdnlive/ahws.m3u8
+#EXTINF:-1 tvg-id="bingtuan" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/bingtuan.png", 兵团卫视
+http://198.204.228.26/live/btws.m3u8
+#EXTINF:-1 tvg-id="btv1" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/btv1.png", 北京卫视
+http://110.244.139.249:7788/630287636
+#EXTINF:-1 tvg-id="btv4kultra" group-title="Trung Quốc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkZnv-us2_t0e1jJWpB-I4m9lFgChjW7UA58Gu2FzuEw&s=10", 北京卫视4K
+http://120.211.62.180:8000/hls/35/index.m3u8
+#EXTINF:-1 tvg-id="btvchild" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/btvchild.png", BRTV卡酷少儿
+http://38.75.136.137:98/gslb/dsdqpub/btvkk.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="cetv1" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cetv1.png", CETV-1
+http://198.204.228.26/live/cetv1hd.m3u8
+#EXTINF:-1 tvg-id="cetv2" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cetv2.png", CETV-2
+http://198.204.228.26/live/cetv2.m3u8
+#EXTINF:-1 tvg-id="cetv3" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cetv3.png", CETV-3
+http://198.204.228.26/live/cetv3.m3u8
+#EXTINF:-1 tvg-id="cetv4" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/cetv4.png", CETV-4
+http://198.204.228.26/live/cetv4.m3u8
+#EXTINF:-1 tvg-id="chongqing" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/chongqing.png", 重庆卫视
+http://182.61.15.163:80/738910914
+#EXTINF:-1 tvg-id="dongfang" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/dongfang.png", 东方卫视
+http://74.91.26.218:82/live/dfwshd.m3u8
+#EXTINF:-1 tvg-id="dongfang4k" group-title="Trung Quốc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hhN5tme_amO04r7qM_pgx5HTc7vIv80FziV_YQ8Pkw&s=10", 东方卫视4K
+https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 tvg-id="dongnan" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/dongnan.png", 东南卫视
+http://207.56.13.146:81/cdnlive/dnws.m3u8
+#EXTINF:-1 tvg-id="gansu" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/gansu.png", 甘肃卫视
+http://113.25.252.226:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="guangdong" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/guangdong.png", 广东卫视
+http://198.204.228.26/live/gdwshd.m3u8
+#EXTINF:-1 tvg-id="guangxi" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/guangxi.png", 广西卫视
+http://60.10.139.113:8801/hls/52/index.m3u8
+#EXTINF:-1 tvg-id="guizhou" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/guizhou.png", 贵州卫视
+http://60.10.139.113:8801/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="hebei" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/hebei.png", 河北卫视
+http://60.10.139.113:8801/hls/16/index.m3u8
+#EXTINF:-1 tvg-id="heilongjiang" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/heilongjiang.png", 黑龙江卫视
+http://198.204.228.26/live/hljwshd.m3u8
+#EXTINF:-1 tvg-id="henan" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/henan.png", 河南卫视
+http://198.204.228.26/live/hawshd.m3u8
+#EXTINF:-1 tvg-id="hubei" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/hubei.png", 湖北卫视
+http://60.10.139.113:8801/hls/29/index.m3u8
+#EXTINF:-1 tvg-id="hunan" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/hunan.png", 湖南卫视
+http://74.91.26.218:82/live/hnwshd.m3u8
+#EXTINF:-1 tvg-id="jiangsu" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/jiangsu.png", 江苏卫视
+http://198.204.228.26/live/jswshd.m3u8
+#EXTINF:-1 tvg-id="jiangxi" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/jiangxi.png", 江西卫视
+http://113.141.220.55:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 tvg-id="jilin" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/jilin.png", 吉林卫视
+http://116.52.173.172:1234/947472500
+#EXTINF:-1 tvg-id="liaoning" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/liaoning.png", 辽宁卫视
+http://60.10.139.113:8801/hls/28/index.m3u8
+#EXTINF:-1 tvg-id="neimenggu" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/neimenggu.png", 内蒙古卫视
+http://222.90.21.30:9901/hls/40/index.m3u8
+#EXTINF:-1 tvg-id="ningxia" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/ningxia.png", 宁夏卫视
+http://198.204.228.26/live/nxws.m3u8
+#EXTINF:-1 tvg-id="qinghai" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/qinghai.png", 青海卫视
+http://198.204.228.26/live/qhws.m3u8
+#EXTINF:-1 tvg-id="sdetv" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/sdetv.png", 山东教育台
+http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#EXTINF:-1 tvg-id="shandong" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/shandong.png", 山东卫视
+https://live.264788.xyz/channel/shandongweishi?streamid=1920e8715db79dca740ef1828b665c11&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="shan1xi" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/shan1xi.png", 山西卫视
+http://198.204.228.26/live/sxwshd.m3u8
+#EXTINF:-1 tvg-id="shan3xi" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/shan3xi.png", 陕西卫视
+http://198.204.228.26/live/snwshd.m3u8
+#EXTINF:-1 tvg-id="shenzhen" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/shenzhen.png", 深圳卫视
+http://198.204.228.26/live/szwshd.m3u8
+#EXTINF:-1 tvg-id="sichuan" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/sichuan.png", 四川卫视
+http://207.56.13.146:81/cdnlive/scws.m3u8 
+#EXTINF:-1 tvg-id="tianjin" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/tianjin.png", 天津卫视
+http://60.10.139.113:8801/hls/23/index.m3u8
+#EXTINF:-1 tvg-id="travel" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/travel.png", 海南卫视
+http://116.236.204.18:1234/947472502
+#EXTINF:-1 tvg-id="xiamen" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/xiamen.png", 厦门卫视
+http://198.204.228.26/live/xmws.m3u8
+#EXTINF:-1 tvg-id="xinjiang" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/xinjiang.png", 新疆卫视
+http://207.56.13.146:81/cdnlive/xjws.m3u8
+#EXTINF:-1 tvg-id="xizang" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/xizang.png", 西藏卫视
+http://222.90.21.30:9901/hls/90/index.m3u8
+#EXTINF:-1 tvg-id="yanbian" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/yanbian.png", 延边卫视
+https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 tvg-id="yunnan" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/yunnan.png", 云南卫视
+http://198.204.228.26/live/ynwshd.m3u8
+#EXTINF:-1 tvg-id="zhejiang" group-title="Trung Quốc" tvg-logo="https://iptv.burningc4.com/tvg-logo/zhejiang.png", 浙江卫视
+http://198.204.228.26/live/zjwshd.m3u8
+#EXTINF:-1 tvg-id="ddnationalhd" group-title="DD" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/DD_National_HD_logo_2024.png/revision/latest/scale-to-width-down/180?cb=20240120091548&path-prefix=vi", DD National HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-id="ddurdu" group-title="DD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/DD_Urdu_new.jpeg/revision/latest?cb=20191229180017", DD Urdu
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
+#EXTINF:-1 tvg-id="ddindia" group-title="DD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/DD_India_2019.jpg/revision/latest/scale-to-width-down/300?cb=20240319181256", DD INDIA
+https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8
+#EXTINF:-1 tvg-id="ddnational" group-title="DD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png/revision/latest?cb=20230823123341", DD National
+http://cdn-1.pishow.tv/live/11/master.m3u8
+#EXTINF:-1 tvg-id="ddnews" group-title="DD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/DD_News_new_logo_2024.jpg/revision/latest?cb=20240417164659", DD News
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 tvg-id="ddsports" group-title="DD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Dd-sports.png/revision/latest/scale-to-width-down/300?cb=20230126170013", DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-id="ddbharati" group-title="DD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/DD_Bharati_english.png/revision/latest/scale-to-width-down/177?cb=20230610233722", DD Bharati
+http://cdn-1.pishow.tv/live/10/master.m3u8
+#EXTINF:-1 tvg-id="ddkisan" group-title="DD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/DD_Kisan.jpg/revision/latest/scale-to-width-down/170?cb=20240318091105", DD Kisan
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
+#EXTINF:-1 tvg-id="ebcgeneraleducation" group-title="Campuchia" tvg-logo="https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png", EBC General Education
+https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
+#EXTINF:-1 tvg-id="onetve-schoolcambodia" group-title="Campuchia" tvg-logo="https://i.imgur.com/wLzVdeT.png", One TV E-School Cambodia
+http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
+#EXTINF:-1 tvg-id="tvk2" group-title="Campuchia" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk-2-kh.png", TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="wiki" group-title="Campuchia" tvg-logo="https://i.imgur.com/rnV0Ui1.png", Wiki TV
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="apsaratv" group-title="Campuchia" tvg-logo="https://www.lyngsat.com/logo/tv/aa/apsara-tv-kh.png", Apsara TV
+https://live.ams.com.kh/app/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="tvk" group-title="Campuchia" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png", TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="moitv" group-title="Campuchia" tvg-logo="http://lyngsat.com/logo/tv/mm/moi-tv-kh.png", MOI TV
+http://202.62.56.22:8080/hls/MOITV.m3u8
+#EXTINF:-1 tvg-id="freshnews" group-title="Campuchia" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fresh-news-kh.png", Fresh News
+http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id=komsantv"" group-title="Campuchia" tvg-logo="https://i.imgur.com/SNTf2r3.png", Komsan TV
+http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
+#EXTINF:-1 tvg-id="ctv9hd" group-title="Campuchia" tvg-logo="https://i.imgur.com/jgVJt2G.png", CTV9 HD
+http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
+#EXTINF:-1 tvg-id="seatvkhmer" group-title="Campuchia" tvg-logo="https://i.imgur.com/oZPorvg.png", SEA TV Khmer
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-id="laosvtv" group-title="Lào" tvg-logo="https://i.imgur.com/ZIXtazI.png", Lao SV TV
+https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="teatv" group-title="Lào" tvg-logo="https://i.imgur.com/WorbnyD.jpeg", Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="uniquelythai" group-title="Lào" tvg-logo="https://i.imgur.com/cTSDB8O.png", Uniquely Thai
+https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="imaitv" group-title="Sri Lanka" tvg-logo="https://i.imgur.com/9tODclu.png", Imai TV
+https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="citihitz" group-title="Sri Lanka" tvg-logo="https://i.imgur.com/EuYpCRF.png", Citi Hitz
+https://mini.allinonereborn.fun/tata.php?id=11590
+#EXTINF:-1 tvg-id="hirutv" group-title="Sri Lanka" tvg-logo="https://i.imgur.com/M66UqPB.png", Hiru TV
+https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-id="itn" group-title="Sri Lanka" tvg-logo="https://i.imgur.com/NLu3guG.png", ITN
+https://mini.allinonereborn.fun/tata.php?id=11597
+#EXTINF:-1 tvg-id="ndtvlanka" group-title="Sri Lanka" tvg-logo="https://i.imgur.com/5cyTVRJ.png", NDTV Lanka
+https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="arttelevision" group-title="Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/ART_Television_%28Sri_Lanka%29_%28logo%29.png/960px-ART_Television_%28Sri_Lanka%29_%28logo%29.png", ART Television
+https://mini.allinonereborn.fun/tata.php?id=11585
+#EXTINF:-1 tvg-id="channelone" group-title="Sri Lanka" tvg-logo="https://i.imgur.com/CqRSTdL.png", Channel One
+https://mini.allinonereborn.fun/tata.php?id=11589
+#EXTINF:-1 tvg-id="channelc" group-title="Sri Lanka" tvg-logo="https://i.imgur.com/CnFdLaf.png", Channel C
+https://mini.allinonereborn.fun/tata.php?id=11588
+#EXTINF:-1 tvg-id="damasatharatv" group-title="Sri Lanka" tvg-logo="https://i.imgur.com/nZE8XjY.png", Damasathara TV
+https://mini.allinonereborn.fun/tata.php?id=11591
+#EXTINF:-1 tvg-id="hi!!tv" group-title="Sri Lanka" tvg-logo="https://www.hi.lk/assets/images/hi_logo.png", Hi!! TV
+https://mini.allinonereborn.fun/tata.php?id=11596
+#EXTINF:-1 tvg-id="rideetv" group-title="Sri Lanka" tvg-logo="https://i.imgur.com/HZLITjX.png", Ridee TV
+https://mini.allinonereborn.fun/tata.php?id=11602
+#EXTINF:-1 tvg-id="rupavahini" group-title="Sri Lanka" tvg-logo="https://i.imgur.com/vgHTfR0.png", Rupavahini
+https://mini.allinonereborn.fun/tata.php?id=11611
+#EXTINF:-1 tvg-id="shakthitv" group-title="Sri Lanka" tvg-logo="https://i.imgur.com/RX6IwK8.png", Shakthi TV
+https://mini.allinonereborn.fun/tata.php?id=11612
+#EXTINF:-1 tvg-id="sirasatv" group-title="Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sirasa_TV_Logo.png/500px-Sirasa_TV_Logo.png", Sirasa TV
+https://mini.allinonereborn.fun/tata.php?id=11614
+#EXTINF:-1 tvg-id="siyathatv" group-title="Sri Lanka" tvg-logo="https://i.imgur.com/9Zc8G7i.png", Siyatha TV
+https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+#EXTINF:-1 tvg-id="tvderena" group-title="Sri Lanka" tvg-logo="https://i.imgur.com/vToOI2s.png", TV Derena
+https://mini.allinonereborn.fun/tata.php?id=11607
+#EXTINF:-1 tvg-id="tvdidula" group-title="Sri Lanka" tvg-logo="https://i.imgur.com/RANo5pt.png", TV Didula
+https://mini.allinonereborn.fun/tata.php?id=11608
+#EXTINF:-1 tvg-id="vasanthamtv" group-title="Sri Lanka" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/Vasanthamtv_channel.jpg", Vasantham TV
+https://mini.allinonereborn.fun/tata.php?id=11610
+#EXTINF:-1 tvg-id="8tv.my" group-title="Malaysia" tvg-logo="https://i.imgur.com/Jkx9W88.png", 8TV
+http://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 tvg-id="astroawanihd.my" group-title="Malaysia" tvg-logo="https://lyngsat.com/logo/tv/aa/astro_awani.png", Astro Awani HD
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 tvg-id="maahtv.my" group-title="Malaysia" tvg-logo="https://i.imgur.com/FkyueH6.png", Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="mrtvnrc" group-title="Myanmar" tvg-logo="https://i.imgur.com/5aLFslk.png", MRTV NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
+#EXTINF:-1 tvg-id="fortunetvhd" group-title="Myanmar" tvg-logo="https://i.imgur.com/MM5evnD.png", Fortune TV HD
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
+#EXTINF:-1 tvg-id="mrtventertainment" group-title="Myanmar" tvg-logo="https://i.imgur.com/c9q6oT0.png", MRTV ENTERTAINMENT
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+#EXTINF:-1 tvg-id="dvbtv" group-title="Myanmar" tvg-logo="https://i.imgur.com/VdezHOv.png", DVB TV
+https://live-stream.dvb.no/hls/stream_src/index.m3u8
