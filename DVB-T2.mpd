@@ -530,7 +530,7 @@ https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
 https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov5" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png.webp", VOV5
 https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgtmekong" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/VOV_GT_Mekong.webp/revision/latest/scale-to-width-down/180?cb=20210927101634&path-prefix=vi", VOV Giao Thông Duyên Hải
+#EXTINF:-1 tvg-id="vovgtmekong" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/vov-giao-thong-duyen-hai-vi.png", VOV Giao Thông Duyên Hải
 https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthn" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671787624.png.webp", VOV Giao thông Hà Nội
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
