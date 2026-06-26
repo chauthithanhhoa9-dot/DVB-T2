@@ -594,7 +594,5 @@ http://103.90.220.236/qtvlive/qnr1.m3u8
 http://103.90.220.236/qtvlive/qnr2.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="", Sơn La Radio
 http://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/playlist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://thainguyenbeta.mastercms.vn/modules/frontend/themes/ptthtn/images/pc/logo.png?v=2.620260627053115", Thái Nguyên Radio
-https://radio.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-iwz8msU9l7MTiqYw7vXcLoVaMUevYFxqeA&s", Tuyên Quang Radio
 https://streaming.tuyenquangtv.vn/channel/tuyenquang_radio/chunks.m3u8
