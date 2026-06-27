@@ -554,7 +554,7 @@ https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/chunklist.m3u
 https://baolaocai.vn/radio
 #EXTINF:-1 tvg-id="langsonradio" group-title="Radio" tvg-logo="http://langsontv.vn/templates/frontend/lstv/Assets/img/radio_bg.png", Lạng Sơn Radio
 https://stream.langsontv.vn/live/285dabcfc94f52b458688fe7f601524816e/chunklist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/Logo_LTV_L%C3%A2m_%C4%90%E1%BB%93ng_FM_97MHz.png/revision/latest/scale-to-width-down/180?cb=20251006042358&path-prefix=vi", Lâm Đồng Radio 1
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/Logo_LTV_L%C3%A2m_%C4%90%E1%BB%93ng_FM_97MHz.png/revision/latest/scale-to-width-down/180?cb=20251006042358&path-prefix=vi", Lâm Đồng Radio 2
 https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist_w1535814517.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e6/Logo_NTV_Ngh%E1%BB%87_An_FM_99%2C6MHz_%28B%E1%BA%A3n_2%2C_m%C3%A0u_%C4%91%E1%BB%8F%29.png/revision/latest/scale-to-width-down/180?cb=20250703011712&path-prefix=vi", Nghệ An Radio
 https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
