@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Xl9VcebZ3NRMiPeS_D1jyVvLI9eNIX__cQ&s" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
 http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuFaeDm8Td2wtRJOEL512wBMzo137UWHzvxA&s" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}, VTV3
