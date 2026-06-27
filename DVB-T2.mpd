@@ -519,7 +519,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10038
 #EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-am610-512x512-104316.png", VOH AM 610 kHz
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10036
 #EXTINF:-1 tvg-id="voh925" group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/92-5-3-104929.png", VOH-M FM 92-92.5 MHz
-https://strm.voh.com.vn/radio/StreamCH5/chunklist_w613167886.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10040
 #EXTINF:-1 tvg-id="angiangradio2" group-title="Radio" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ATVFM93.1%20MHZ.jpg", An Giang Radio 2
 https://tv.angiangtv.vn/live/kgtv3/kgtv3.m3u8
 #EXTINF:-1 tvg-id="bacninhradio" group-title="Radio" tvg-logo="https://bacninhtv.vn/templates/frontend/bgtv/Assets/img/v3/btv_bg_video.jpg", Bắc Ninh Radio
@@ -546,6 +546,10 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9905
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9906
 #EXTINF:-1 tvg-id="hatinhradio" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/BHT_Radio.png/revision/latest/scale-to-width-down/180?cb=20250419121849&path-prefix=vi", Hà Tĩnh Radio
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/Logo_THP_FM_93%2C7_MHz.png/revision/latest/scale-to-width-down/180?cb=20250718155056&path-prefix=vi", Hải Phòng FM 93.7
+https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Logo_THP_FM_102%2C2_MHz.png/revision/latest/scale-to-width-down/180?cb=20250718155300&path-prefix=vi", Hải Phòng FM 102.2
+https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_QjNuX-g_qVdtVp-RmrWDKw5YapGumiivDrHvMYHB1A&s", Huế Radio
 http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 #EXTINF:-1 tvg-id="hungyenradio" group-title="Radio" tvg-logo="http://hungyentv.vn/templates/frontend/hytv/Assets/img/backgroud-radio.jpg", Hưng Yên Radio
