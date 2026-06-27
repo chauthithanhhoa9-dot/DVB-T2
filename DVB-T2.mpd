@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Xl9VcebZ3NRMiPeS_D1jyVvLI9eNIX__cQ&s" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
-http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
+https://live.fptplay53.net/fnxhd1/vtv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuFaeDm8Td2wtRJOEL512wBMzo137UWHzvxA&s" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}, VTV3
 http://125hvt.ddns.net:21585/vtv3/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png" catchup="append" catchup-days="2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=378&time=${start}&offset=${duration}, VTV4
