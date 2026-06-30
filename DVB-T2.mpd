@@ -40,12 +40,20 @@ https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ONPHIMVIET.png", ON Phim Việt
 https://freem3u.xyz/api/live/play.m3u8?vid=175
 #EXTINF:-1 tvg-id="onsportshd" group-title="VTVcab" tvg-logo="https://image3.vnmedia.xyz/logo/on-sports.jpg", ON Sports HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22082fe7-8b05-4de5-90d8-c078b0f7cb5c
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=174
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbKzhqP-FzcQhQyQHWBPNwXnCM1DMON_A8aA&s", On Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onechannel.png", ON Echannel
 https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:-1 tvg-id="onsports+" group-title="VTVcab" tvg-logo="https://image3.vnmedia.xyz/logo/on-sportsplus.jpg", ON Sports+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22082fe7-8b05-4de5-90d8-c078b0f7cb5c
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=183
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ono2tv.png", On O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
@@ -60,11 +68,19 @@ https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", On Music
 https://freem3u.xyz/api/live/play.m3u8?vid=185
 #EXTINF:-1 tvg-id="onfootballhd" group-title="VTVcab" tvg-logo="https://image2.vnmedia.xyz/logo/on-football.jpg", ON Football HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22082fe7-8b05-4de5-90d8-c078b0f7cb5c
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=174
 #EXTINF:-1 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON TRENDING TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=186
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://image3.vnmedia.xyz/logo/on-sportsnews.jpg", ON Sports News
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22082fe7-8b05-4de5-90d8-c078b0f7cb5c
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=170
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -112,10 +128,18 @@ https://hoiquan.dpdns.org/VTVGo/?sctv13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv14
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://image2.vnmedia.xyz/logo/sctv15hd.png", SCTV15 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=342775b9-7c03-4332-a7c5-54a4e7bf23c3
 https://hoiquan.dpdns.org/VTVGo/?sctv15
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv16.png", SCTV16 HD
 https://hoiquan.dpdns.org/VTVGo/?sctv16
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://image2.vnmedia.xyz/logo/sctv17hd.png", SCTV17 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7f11eb9-aef0-4c33-b277-6cb5b83c038f
 https://hoiquan.dpdns.org/VTVGo/?sctv17
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv18.png", SCTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -130,6 +154,10 @@ https://hoiquan.dpdns.org/VTVGo/?sctv20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv21
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png", SCTV22 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d388dc25
 https://hoiquan.dpdns.org/VTVGo/?sctv22
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctvpth.png", SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
