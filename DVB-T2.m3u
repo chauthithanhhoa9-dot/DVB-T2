@@ -1,3 +1,4 @@
+
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
@@ -44,7 +45,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=175
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22082fe7-8b05-4de5-90d8-c078b0f7cb5c
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=174
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=174&token=NinoExility
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbKzhqP-FzcQhQyQHWBPNwXnCM1DMON_A8aA&s", On Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onechannel.png", ON Echannel
@@ -54,7 +55,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=182
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22082fe7-8b05-4de5-90d8-c078b0f7cb5c
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=183
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=183&token=NinoExility
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ono2tv.png", On O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onbibi.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi
@@ -72,7 +73,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=185
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22082fe7-8b05-4de5-90d8-c078b0f7cb5c
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=174
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=174&token=NinoExility
 #EXTINF:-1 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON TRENDING TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=186
@@ -81,7 +82,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=186
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22082fe7-8b05-4de5-90d8-c078b0f7cb5c
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=170
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=170&token=NinoExility
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=177
@@ -95,7 +96,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-golf.jpg", On Golf
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=169
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=169&token=NinoExility
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv1.png", SCTV1 HD
 https://hoiquan.dpdns.org/VTVGo/?sctv1
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 HD
