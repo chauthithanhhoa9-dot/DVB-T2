@@ -319,7 +319,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=68
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
 #EXTINF:-1 tvg-id="quangngai2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/QNgTV2.png/revision/latest?cb=20260114143705&path-prefix=vi", Quảng Ngãi 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tpninosaga.duckdns.org/source/vieon.m3u8?id=quangngai2&token=NinoExility
+https://freem3u.xyz/r/tfidfvg
 #EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/10/03/1683663305895/0f3f1e5bd284_640_360.png", Tuyên Quang
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/07/1751329966912/3ddadef93c24_640_360.png", Thái Nguyên
