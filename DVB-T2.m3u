@@ -568,9 +568,9 @@ http://tv.ctvcamau.vn/live/radio/radio.m3u8
 https://live.canthotv.vn/live/radio/chunklist_w1780522487.m3u8
 #EXTINF:-1 tvg-id="canthoradio2" group-title="Radio" tvg-logo="https://canthoplus.vn/storage/channels/d18742e3-5735-43ea-9001-77678b4ef751.png", Cần Thơ Radio 2
 https://live.canthotv.vn/live/radiocs2/chunklist_w790093430.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.danangtv.vn/Uploads/Media/Images/101220211598radio.png", Đà Nẵng Radio
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/93/DNRT_Radio.png/revision/latest?cb=20250707145943&path-prefix=vi", Đà Nẵng Radio
 https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
-#EXTINF:-1 tvg-id="daklakradio" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/Logo_DRT_FM_92%2C4MHz_%26_FM_94%2C7MHz.png/revision/latest/scale-to-width-down/1082?cb=20220613173357&path-prefix=vi", Đắk Lắk Radio
+#EXTINF:-1 tvg-id="daklakradio" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/Logo_DRT_Radio_FM_92%2C4MHz_%26_FM_94%2C7MHz_2025_m%E1%BB%9Bi.png/revision/latest/scale-to-width-down/180?cb=20250818030633&path-prefix=vi", Đắk Lắk Radio
 https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/dongnaifm.png", Đồng Nai Radio
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
@@ -579,9 +579,9 @@ http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
 https://64d0d74b76158.streamlock.net/THDTR/thdtradio/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/14/Logo_GTV_Gia_Lai_-_FM_97%2C0MHz%2C_FM_99%2C9MHz%2C_FM_102MHz_m%E1%BB%9Bi.png/revision/latest/scale-to-width-down/985?cb=20250818034448&path-prefix=vi", Gia Lai Radio
 http://14.224.130.186:8000/binhdinh
-#EXTINF:-1 tvg-id="hanoi90" group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2024/03/08/dai-ha-noi-5_90mhz---3-01-111825.jpg", Hà Nội FM90
+#EXTINF:-1 tvg-id="hanoi90" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Logo_FM90_MHz_2026.png/revision/latest/scale-to-width-down/180?cb=20260425000829&path-prefix=vi", Hà Nội FM90
 https://freem3u.xyz/api/live/play.m3u8?vid=9905
-#EXTINF:-1 tvg-id="hanoi96" group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2024/03/08/dai-ha-noi-5_96mhz--3-01-111727.jpg?w=450&h=270", Hà Nội FM96
+#EXTINF:-1 tvg-id="hanoi96" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/Logo_FM96_K%C3%AAnh_Th%E1%BB%9Di_s%E1%BB%B1_t%E1%BB%95ng_h%E1%BB%A3p.png/revision/latest/scale-to-width-down/180?cb=20240119172905&path-prefix=vi", Hà Nội FM96
 https://freem3u.xyz/api/live/play.m3u8?vid=9906
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/Logo_THP_FM_93%2C7_MHz.png/revision/latest/scale-to-width-down/180?cb=20250718155056&path-prefix=vi", Hải Phòng FM 93.7
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
