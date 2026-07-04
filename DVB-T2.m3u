@@ -265,23 +265,23 @@ https://freem3u.xyz/api/live/play.m3u8?vid=220
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/THVL5_logo_2026_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/220?cb=20260224023722&path-prefix=vi", Vĩnh Long 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=91
-#EXTINF:-1 tvg-id="angiang1" group-title="Địa phương" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H4.png", An Giang 1
+#EXTINF:-1 tvg-id="angiang1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/ATV1_logo_09-07-2025.png/revision/latest/scale-to-width-down/200?cb=20251109111844&path-prefix=vi", An Giang 1
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV2.jpg", An Giang 2
+#EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/ATV2_logo_07-2025.png/revision/latest/scale-to-width-down/200?cb=20251018044547&path-prefix=vi", An Giang 2
 https://freem3u.xyz/api/live/play.m3u8?vid=35
-#EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" tvg-logo="https://angiangtv.vn/wp-content/uploads/2025/06/H5.png", An Giang 3
+#EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/ATV3_logo_09-07-2025_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20251109111343&path-prefix=vi", An Giang 3
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png", Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 #EXTINF:-1 tvg-id="nghean" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821989411/75bfb004e210_640_360.png", Nghệ An
 http://103.90.220.236/natvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/ESIlLqXKqyM/maxresdefault.jpg", Cà Mau
+#EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/CTV_Ca_Mau_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20251208130014&path-prefix=vi", Cà Mau
 https://freem3u.xyz/api/live/play.m3u8?vid=46
-#EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/GTVGIALAI.png", Gia Lai
+#EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/GTV_Gia_Lai.png/revision/latest/scale-to-width-down/200?cb=20260622142748&path-prefix=vi", Gia Lai
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/KTV_KhanhHoa.png", Khánh Hòa
+#EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c1/KTV_HD_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20260104081252&path-prefix=vi", Khánh Hòa
 https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="khanhhoa1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/KTV1_KhanhHoa.png", Khánh Hòa 1
+#EXTINF:-1 tvg-id="khanhhoa1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/KTV1_HD_logo.png/revision/latest/scale-to-width-down/200?cb=20260101114307&path-prefix=vi", Khánh Hòa 1
 https://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png", Huế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
