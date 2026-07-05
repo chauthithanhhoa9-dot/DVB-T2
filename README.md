@@ -1,2 +1,2 @@
-# DVB-T2
-DVB-T2 Vietnam
+# dvb-t2
+dvb-t2 Vietnam
