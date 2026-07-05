@@ -267,7 +267,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=91
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/ATV2_logo_07-2025.png/revision/latest/scale-to-width-down/200?cb=20251018044547&path-prefix=vi", An Giang 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://tpninosaga.duckdns.org/source/tv360.m3u8?id=35&token=NinoExility
+https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/ATV3_logo_09-07-2025_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20251109111343&path-prefix=vi", An Giang 3
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png", Ninh Bình
@@ -275,7 +275,7 @@ http://freem3u.xyz/api/live/play.m3u8?vid=75
 #EXTINF:-1 tvg-id="nghean" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821989411/75bfb004e210_640_360.png", Nghệ An
 http://103.90.220.236/natvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/CTV_Ca_Mau_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20251208130014&path-prefix=vi", Cà Mau
-https://freem3u.xyz/api/live/play.m3u8?vid=46
+https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/GTV_Gia_Lai.png/revision/latest/scale-to-width-down/200?cb=20260622142748&path-prefix=vi", Gia Lai
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c1/KTV_HD_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20260104081252&path-prefix=vi", Khánh Hòa
