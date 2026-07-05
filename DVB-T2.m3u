@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
+#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/VTV1_08.10.2019%2C_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest/scale-to-width-down/220?cb=20250110114239&path-prefix=vi", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
