@@ -483,16 +483,16 @@ https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
-#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/axn.png", AXN HD
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/78?cb=20201126064846", AXN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
-#EXTINF:-1 tvg-id="outdoor" group-title="Quốc Tế" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_outdoor-channel_165649323545.png", Outdoor Channel
+#EXTINF:-1 tvg-id="outdoor" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/Outdoor.png/revision/latest/scale-to-width-down/200?cb=20231230015001&path-prefix=vi", Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/06/03/22/1717427367441/869de47c9504_640_360.png", History HD
+#EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8a/History_TV_2022.png/revision/latest/scale-to-width-down/180?cb=20240404091511&path-prefix=vi", History HD
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="dmax" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/vHmt91V.png", DMAX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -500,14 +500,14 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
-#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/abcaustralia.png", ABC Australia
+#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/ABC_Australia_logo.png/revision/latest/scale-to-width-down/180?cb=20220127022308&path-prefix=vi", ABC Australia
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c
 https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
-#EXTINF:-1 tvg-id="fashionhd" group-title="Quốc Tế" tvg-logo="https://m.media-amazon.com/images/I/91B05VQC2kL.png", Fashion TV
+#EXTINF:-1 tvg-id="fashionhd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a4/Fashion_TV_2017.png/revision/latest/scale-to-width-down/180?cb=20230609191955&path-prefix=vi", Fashion TV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -517,57 +517,57 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi", KIX HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png", TLC
+#EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png", Travel & Living HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
 https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
-#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/6b/ba/a3/36/60/0a/6ba36-pwarnerhd-channel-unkn.png", Warner TV
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest?cb=20180325001201", Warner TV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
-#EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/hgtv.png", HGTV
+#EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/HGTV_2010.svg/revision/latest/scale-to-width-down/200?cb=20211127035204&path-prefix=vi", HGTV
 https://freem3u.xyz/api/live/play.m3u8?vid=99
-#EXTINF:-1 tvg-id="vov1" group-title="Radio" tvg-logo="https://admin.vov.gov.vn/UploadFolder/KhoTin/Images/UploadFolder/VOVVN/Images/sites/default/files/2024-02/vov1.jpg", VOV1
+#EXTINF:-1 tvg-id="vov1" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c1/VOV1_logo_2020.png/revision/latest/scale-to-width-down/200?cb=20241207091446&path-prefix=vi", VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov2" group-title="Radio" tvg-logo="https://vov2.vov.vn/themes/custom/vov_news/logo.png", VOV2
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov3" group-title="Radio" tvg-logo="https://vov3.vov.vn/sites/default/files/styles/front_medium/public/2021-12/Logo%20VOV3%20800x600%20edit.jpg", VOV3
+#EXTINF:-1 tvg-id="vov3" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ab/VOV3_logo_2025.png/revision/latest/scale-to-width-down/180?cb=20260621152021&path-prefix=vi", VOV3
 https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov5" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png.webp", VOV5
+#EXTINF:-1 tvg-id="vov5" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/VOV5_logo_2021_%28no_text%29.png/revision/latest/scale-to-width-down/200?cb=20241116063929&path-prefix=vi", VOV5
 https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="", VOV5 English 24/7
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/VOV5_English.png/revision/latest/scale-to-width-down/180?cb=20211218111357&path-prefix=vi", VOV5 English 24/7
 http://media.kythuatvov.vn:1936/live/VOV24-7.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgtdh" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/vov-giao-thong-duyen-hai-vi.png", VOV Giao Thông Duyên Hải
+#EXTINF:-1 tvg-id="vovgtdh" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/VOV_Giao_th%C3%B4ng_Duy%C3%AAn_h%E1%BA%A3i.png/revision/latest/scale-to-width-down/180?cb=20250608084021&path-prefix=vi", VOV Giao Thông Duyên Hải
 https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgthn" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671787624.png.webp", VOV Giao thông Hà Nội
+#EXTINF:-1 tvg-id="vovgthn" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a4/VOV_GT_Hanoi.webp/revision/latest/scale-to-width-down/180?cb=20210927101540&path-prefix=vi", VOV Giao thông Hà Nội
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
-#EXTINF:-1 tvg-id="vovgthcm" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671787823.png.webp", VOV Giao thông Hồ Chí Minh
+#EXTINF:-1 tvg-id="vovgthcm" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/VOV_GT_Ho_Chi_Minh.webp/revision/latest/scale-to-width-down/180?cb=20210927101547&path-prefix=vi", VOV Giao thông Hồ Chí Minh
 https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 #EXTINF:-1 tvg-id="vovgtmekong" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/VOV_GT_Mekong.webp/revision/latest/scale-to-width-down/180?cb=20210927101634&path-prefix=vi", VOV Giao thông Mekong
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
-#EXTINF:-1 tvg-id="voh999" group-title="Radio" tvg-logo="https://ravimedia.vn/wp-content/uploads/2021/06/ravimedia-voh99.9mhz.jpg", VOH FM 99.9 Mhz
+#EXTINF:-1 tvg-id="voh999" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/Logo_VOH_FM_99%2C9_MHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest/scale-to-width-down/200?cb=20230728073259&path-prefix=vi", VOH FM 99.9 Mhz
 https://freem3u.xyz/api/live/play.m3u8?vid=10037
-#EXTINF:-1 tvg-id="voh956" group-title="Radio" tvg-logo="https://cdn.instant.audio/images/logos/vietnamradio-org/voh-fm-95-6.png", VOH FM 95.6 Mhz
+#EXTINF:-1 tvg-id="voh956" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/49/Logo_VOH_FM_95%2C6_MHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest/scale-to-width-down/200?cb=20230728073622&path-prefix=vi", VOH FM 95.6 Mhz
 https://freem3u.xyz/api/live/play.m3u8?vid=10039
-#EXTINF:-1 tvg-id="voh877" group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-fm877-512x512-110237.png", VOH FM 87.7 Mhz
+#EXTINF:-1 tvg-id="voh877" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6d/Logo_VOH_FM_87%2C7_MHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest/scale-to-width-down/200?cb=20230728074218&path-prefix=vi", VOH FM 87.7 Mhz
 https://freem3u.xyz/api/live/play.m3u8?vid=10038
-#EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-am610-512x512-104316.png", VOH AM 610 kHz
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/Logo_VOH_AM_610KHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest/scale-to-width-down/200?cb=20230728072341&path-prefix=vi", VOH AM 610 kHz
 https://freem3u.xyz/api/live/play.m3u8?vid=10036
-#EXTINF:-1 tvg-id="voh925" group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/92-5-3-104929.png", VOH-M FM 92-92.5 MHz
+#EXTINF:-1 tvg-id="voh925" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/94/Logo_VOH_Radio_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest/scale-to-width-down/200?cb=20230728070323&path-prefix=vi", VOH-M FM 92-92.5 MHz
 https://freem3u.xyz/api/live/play.m3u8?vid=10040
-#EXTINF:-1 tvg-id="angiangradio2" group-title="Radio" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ATVFM93.1%20MHZ.jpg", An Giang Radio 2
+#EXTINF:-1 tvg-id="angiangradio2" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/ATV_FM_93.1_MHz.png/revision/latest/scale-to-width-down/180?cb=20250818071609&path-prefix=vi", An Giang Radio 2
 https://tv.angiangtv.vn/live/kgtv3/kgtv3.m3u8
-#EXTINF:-1 tvg-id="bacninhradio" group-title="Radio" tvg-logo="https://bacninhtv.vn/templates/frontend/bgtv/Assets/img/v3/btv_bg_video.jpg", Bắc Ninh Radio
+#EXTINF:-1 tvg-id="bacninhradio" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/27/Logo_BTV_Bac_Ninh_FM_98%2C4MHz_m%E1%BB%9Bi.png/revision/latest/scale-to-width-down/180?cb=20251009042328&path-prefix=vi", Bắc Ninh Radio
 https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 #EXTINF:-1 tvg-id="camauradio" group-title="Radio" tvg-logo="https://baocamau.vn/live/radio_online.jpg?id=1", Cà Mau Radio
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
-#EXTINF:-1 tvg-id="canthoradio1" group-title="Radio" tvg-logo="https://canthoplus.vn/storage/channels/9b7858d5-ff44-43b3-94ab-e4d66a54f1bd.png", Cần Thơ Radio 1
+#EXTINF:-1 tvg-id="canthoradio1" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/00/Logo_CanTho_FM_97%2C3MHz_09-2025.png/revision/latest/scale-to-width-down/180?cb=20260106093446&path-prefix=vi", Cần Thơ Radio 1
 https://live.canthotv.vn/live/radio/chunklist_w1780522487.m3u8
-#EXTINF:-1 tvg-id="canthoradio2" group-title="Radio" tvg-logo="https://canthoplus.vn/storage/channels/d18742e3-5735-43ea-9001-77678b4ef751.png", Cần Thơ Radio 2
+#EXTINF:-1 tvg-id="canthoradio2" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/C%E1%BA%A7nTh%C6%A1_FM_89.6_MHz.png/revision/latest/scale-to-width-down/180?cb=20260528032903&path-prefix=vi", Cần Thơ Radio 2
 https://live.canthotv.vn/live/radiocs2/chunklist_w790093430.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/93/DNRT_Radio.png/revision/latest?cb=20250707145943&path-prefix=vi", Đà Nẵng Radio
 https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
@@ -588,25 +588,25 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9906
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Logo_THP_FM_102%2C2_MHz.png/revision/latest/scale-to-width-down/180?cb=20250718155300&path-prefix=vi", Hải Phòng FM 102.2
 https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_QjNuX-g_qVdtVp-RmrWDKw5YapGumiivDrHvMYHB1A&s", Huế Radio
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/Logo_HUE_Radio_%28Ph%C3%A1t_thanh_Hu%E1%BA%BF%29.png/revision/latest/scale-to-width-down/180?cb=20250320033736&path-prefix=vi", Huế Radio
 http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
-#EXTINF:-1 tvg-id="hungyenradio" group-title="Radio" tvg-logo="http://hungyentv.vn/templates/frontend/hytv/Assets/img/backgroud-radio.jpg", Hưng Yên Radio
+#EXTINF:-1 tvg-id="hungyenradio" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/HY_logo_2021_%28Hungyentv_Go%29.png/revision/latest/scale-to-width-down/180?cb=20210919033404&path-prefix=vi", Hưng Yên Radio
 https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bc/Logo_THLC_L%C3%A0o_Cai_FM_97%2C0MHz_2025_m%E1%BB%9Bi.png/revision/latest/scale-to-width-down/180?cb=20250818025928&path-prefix=vi", Lào Cai Radio
 https://baolaocai.vn/radio
-#EXTINF:-1 tvg-id="langsonradio" group-title="Radio" tvg-logo="http://langsontv.vn/templates/frontend/lstv/Assets/img/radio_bg.png", Lạng Sơn Radio
+#EXTINF:-1 tvg-id="langsonradio" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/Logo_Ph%C3%A1t_thanh_L%E1%BA%A1ng_S%C6%A1n_2025.png/revision/latest/scale-to-width-down/180?cb=20251202034053&path-prefix=vi", Lạng Sơn Radio
 https://stream.langsontv.vn/live/285dabcfc94f52b458688fe7f601524816e/chunklist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/Logo_LTV_L%C3%A2m_%C4%90%E1%BB%93ng_FM_97MHz.png/revision/latest/scale-to-width-down/180?cb=20251006042358&path-prefix=vi", Lâm Đồng Radio 2
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/Logo_LTV_FM_92%2C3MHz_m%E1%BB%9Bi.png/revision/latest/scale-to-width-down/180?cb=20251006042444&path-prefix=vi", Lâm Đồng Radio 2
 https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist_w1535814517.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e6/Logo_NTV_Ngh%E1%BB%87_An_FM_99%2C6MHz_%28B%E1%BA%A3n_2%2C_m%C3%A0u_%C4%91%E1%BB%8F%29.png/revision/latest/scale-to-width-down/180?cb=20250703011712&path-prefix=vi", Nghệ An Radio
 https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/audio_bg.jpg", Ninh Bình Radio
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cc/Logo_NTV_Ninh_B%C3%ACnh_FM_93%2C3_MHz%2C_95%2C1_MHz%2C_98%2C1_MHz.png/revision/latest/scale-to-width-down/180?cb=20250818074050&path-prefix=vi", Ninh Bình Radio
 https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/chunklist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu4.png", Quảng Ninh Radio 1
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/14/QNR1_logo.png/revision/latest/scale-to-width-down/180?cb=20210726035504&path-prefix=vi", Quảng Ninh Radio 1
 http://103.90.220.236/qtvlive/qnr1.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu3.png", Quảng Ninh Radio 2
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/93/QNR2_logo.png/revision/latest/scale-to-width-down/180?cb=20210726035548&path-prefix=vi", Quảng Ninh Radio 2
 http://103.90.220.236/qtvlive/qnr2.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="", Sơn La Radio
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/STV_Radio.png/revision/latest/scale-to-width-down/180?cb=20250307153202&path-prefix=vi", Sơn La Radio
 http://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/playlist.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-iwz8msU9l7MTiqYw7vXcLoVaMUevYFxqeA&s", Tuyên Quang Radio
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/Logo_TTV_Tuyen_Quang_92_v%C3%A0_95%2C6MHz_2025.png/revision/latest/scale-to-width-down/180?cb=20250820111546&path-prefix=vi", Tuyên Quang Radio
 https://streaming.tuyenquangtv.vn/channel/tuyenquang_radio/chunks.m3u8
