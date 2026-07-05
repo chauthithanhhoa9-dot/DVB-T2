@@ -610,5 +610,3 @@ http://103.90.220.236/qtvlive/qnr2.m3u8
 http://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/Logo_TTV_Tuyen_Quang_92_v%C3%A0_95%2C6MHz_2025.png/revision/latest/scale-to-width-down/180?cb=20250820111546&path-prefix=vi", Tuyên Quang Radio
 https://streaming.tuyenquangtv.vn/channel/tuyenquang_radio/chunks.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="", Vĩnh Long Radio
-https://freem3u.xyz/r/avenubdr
