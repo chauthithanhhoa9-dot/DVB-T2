@@ -44,7 +44,7 @@ https://tpninosaga.duckdns.org/source/tv360.m3u8?id=175&token=NinoExility
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22082fe7-8b05-4de5-90d8-c078b0f7cb5c
+#KODIPROP:inputstream.adaptive.license_key=22082fe78b054de590d8c078b0f7cb5c
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=174&token=NinoExility
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/ON_Movies_logo.png/revision/latest/scale-to-width-down/200?cb=20221211044023&path-prefix=vi", ON Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
@@ -54,7 +54,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22082fe7-8b05-4de5-90d8-c078b0f7cb5c
+#KODIPROP:inputstream.adaptive.license_key=22082fe78b054de590d8c078b0f7cb5c
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=183&token=NinoExility
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/ON_O2TV.png/revision/latest/scale-to-width-down/200?cb=20221211044258&path-prefix=vi", ON O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
@@ -133,7 +133,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=342775b9-7c03-4332-a7c5-54a4e7bf23c3
+#KODIPROP:inputstream.adaptive.license_key=342775b97c034332a7c554a4e7bf23c3
 https://hoiquan.dpdns.org/VTVGo/?sctv15
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a1/SCTV16_logo.png/revision/latest/scale-to-width-down/200?cb=20220223140716&path-prefix=vi", SCTV16 HD
 https://hoiquan.dpdns.org/VTVGo/?sctv16
@@ -141,7 +141,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7f11eb9-aef0-4c33-b277-6cb5b83c038f
+#KODIPROP:inputstream.adaptive.license_key=a7f11eb9aef04c33b2776cb5b83c038f
 https://hoiquan.dpdns.org/VTVGo/?sctv17
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/SCTV18_logo_2020.png/revision/latest/scale-to-width-down/200?cb=20220223142129&path-prefix=vi", SCTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
