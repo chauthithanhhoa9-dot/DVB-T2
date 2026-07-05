@@ -577,7 +577,7 @@ https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/73/TH%C4%90T_98.4MHz.png/revision/latest/scale-to-width-down/180?cb=20250820112029&path-prefix=vi", Đồng Tháp Radio
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://64d0d74b76158.streamlock.net/THDTR/thdtradio/playlist.m3u8
+https://618b88f69e53b.streamlock.net/THDTR/thdtradio/chunklist_w590656196.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/14/Logo_GTV_Gia_Lai_-_FM_97%2C0MHz%2C_FM_99%2C9MHz%2C_FM_102MHz_m%E1%BB%9Bi.png/revision/latest/scale-to-width-down/985?cb=20250818034448&path-prefix=vi", Gia Lai Radio
 http://14.224.130.186:8000/binhdinh
 #EXTINF:-1 tvg-id="hanoi90" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Logo_FM90_MHz_2026.png/revision/latest/scale-to-width-down/180?cb=20260425000829&path-prefix=vi", Hà Nội FM90
@@ -610,3 +610,6 @@ http://103.90.220.236/qtvlive/qnr2.m3u8
 http://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/Logo_TTV_Tuyen_Quang_92_v%C3%A0_95%2C6MHz_2025.png/revision/latest/scale-to-width-down/180?cb=20250820111546&path-prefix=vi", Tuyên Quang Radio
 https://streaming.tuyenquangtv.vn/channel/tuyenquang_radio/chunks.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/04/Radio_TN_TayNinhTV.png/revision/latest/scale-to-width-down/180?cb=20260106092747&path-prefix=vi", Tây Ninh Radio
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://live-hq.evgcdn.net/live/2851dd3d9016ac74d84b0c4a7a659f76891/chunklist.m3u8
