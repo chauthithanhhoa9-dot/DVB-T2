@@ -168,6 +168,9 @@ https://hoiquan.dpdns.org/VTVGo/?sctvphim
 https://hoiquan.dpdns.org/VTVGo/?sctv5
 #EXTINF:-1 group-title="Mua sắm" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/Happymall_logo.png/revision/latest/scale-to-width-down/200?cb=20251112152941&path-prefix=vi", HappyMall
 https://hoiquan.dpdns.org/VTVGo/?sctv10
+#EXTINF:-1 group-title="Mua sắm" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/78/Shopping_24h_logo.png/revision/latest/scale-to-width-down/200?cb=20240102083449&path-prefix=vi", BTV6 - Shopping 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://s7421.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv514&q=high&deviceType=127&userId=45588716&deviceId=47036681&type=tv&p=0&zn=netb2c&rkey=45588716Ty8adsI4&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.74.21&pkg=pkg33.hni&profiles=high,medium&&bhi=3500000&bme=1500000&location=TVH&rbk=17216246115&pnode=172.16.56.78&isp=all
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/HTV1_30-12-2024.png/revision/latest/scale-to-width-down/220?cb=20260414043039&path-prefix=vi", HTV1
 https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f6/HTV2_31-12-2024.png/revision/latest/scale-to-width-down/220?cb=20250106011047&path-prefix=vi", HTV2 HD
