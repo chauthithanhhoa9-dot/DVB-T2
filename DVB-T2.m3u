@@ -223,12 +223,12 @@ https://live.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_400000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
 #EXTINF:-1 tvg-id="cantho1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho1.png", Cần Thơ 1
-https://live.canthotv.vn/live/tv/chunklist_w693005420.m3u8
+https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cantho2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho2.png", Cần Thơ 2
-https://live.canthotv.vn/cs2/live.stream/chunklist_w1497265452.m3u8
+https://live.fptplay53.net/epzhd2/cantho02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho3.png", Cần Thơ 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.canthotv.vn/cs3/tv/chunklist_w1003748170.m3u8
+https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="sonla" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/85/STV_HD_Son_La_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20230207071950&path-prefix=vi", Sơn La
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist.m3u8
@@ -245,9 +245,9 @@ https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/76/Logo_TTV_Thanh_H%C3%B3a_01-07-2026_%28c%C3%B3_website%2C_B%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/200?cb=20260701035450&path-prefix=vi", Thanh Hóa
 https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="quangninh1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/QTV1_HD_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20231028035724&path-prefix=vi", Quảng Ninh 1
-https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
+https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="quangninh3" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/QTV3_HD_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20231028035725&path-prefix=vi", Quảng Ninh 3
-https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e9/THVL1_logo_2026_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/220?cb=20260221102549&path-prefix=vi", Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1.m3u8
