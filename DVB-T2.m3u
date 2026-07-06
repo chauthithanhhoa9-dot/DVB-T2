@@ -581,6 +581,7 @@ http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/chunklist_w590656196.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/14/Logo_GTV_Gia_Lai_-_FM_97%2C0MHz%2C_FM_99%2C9MHz%2C_FM_102MHz_m%E1%BB%9Bi.png/revision/latest/scale-to-width-down/985?cb=20250818034448&path-prefix=vi", Gia Lai Radio
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.gialaitv.vn/radio.m3u8
 #EXTINF:-1 tvg-id="hanoi90" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Logo_FM90_MHz_2026.png/revision/latest/scale-to-width-down/180?cb=20260425000829&path-prefix=vi", Hà Nội FM90
 https://freem3u.xyz/api/live/play.m3u8?vid=9905
