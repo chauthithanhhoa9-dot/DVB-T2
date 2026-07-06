@@ -37,12 +37,15 @@ https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/ON_Vie_Gi%E1%BA%A3i_tr%C3%AD.png/revision/latest/scale-to-width-down/200?cb=20240817111510&path-prefix=vi", ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/ON_Phim_Vi%E1%BB%87t_logo_17-05-2023.png/revision/latest/scale-to-width-down/200?cb=20230518142320&path-prefix=vi", ON Phim Việt
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=175
 #EXTINF:-1 tvg-id="onsportshd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/ON_Sports_logo_2022.png/revision/latest/scale-to-width-down/200?cb=20220311023726&path-prefix=vi", ON Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22082fe78b054de590d8c078b0f7cb5c
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=174&token=NinoExility
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=174&token=NinoEra36
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/ON_Movies_logo.png/revision/latest/scale-to-width-down/200?cb=20221211044023&path-prefix=vi", ON Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/59/ON_E_Channel_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20241022002539&path-prefix=vi", ON Echannel
@@ -52,7 +55,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=182
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22082fe78b054de590d8c078b0f7cb5c
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=183&token=NinoExility
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=183&token=NinoEra36
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/ON_O2TV.png/revision/latest/scale-to-width-down/200?cb=20221211044258&path-prefix=vi", ON O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f5/ON_BiBi_ident_2022.png/revision/latest/scale-to-width-down/200?cb=20230331133312&path-prefix=vi", ON BiBi
@@ -70,7 +73,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=185
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22082fe7-8b05-4de5-90d8-c078b0f7cb5c
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=174&token=NinoExility
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=174&token=NinoEra36
 #EXTINF:-1 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/ON_Trending_TV.png/revision/latest/scale-to-width-down/200?cb=20250401154338&path-prefix=vi", ON TRENDING TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=186
@@ -79,7 +82,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=186
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22082fe7-8b05-4de5-90d8-c078b0f7cb5c
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=170&token=NinoExility
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=170&token=NinoEra36
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/ON_Vie_Dramas.png/revision/latest/scale-to-width-down/200?cb=20240816025529&path-prefix=vi", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=177
@@ -92,6 +95,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/ON_Life_logo_2D.png/revision/latest/scale-to-width-down/200?cb=20230703101042&path-prefix=vi", ON Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/ON_Golf_2022.png/revision/latest/scale-to-width-down/200?cb=20230118075014&path-prefix=vi", On Golf
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=169&token=NinoEra36
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/SCTV1_logo.png/revision/latest/scale-to-width-down/200?cb=20220223140645&path-prefix=vi", SCTV1 HD
 https://hoiquan.dpdns.org/VTVGo/?sctv1
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/SCTV2_logo_2021.png/revision/latest/scale-to-width-down/200?cb=20211030113439&path-prefix=vi", SCTV2 HD
@@ -524,7 +530,7 @@ https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/HGTV_2010.svg/revision/latest/scale-to-width-down/200?cb=20211127035204&path-prefix=vi", HGTV
-https://freem3u.xyz/api/live/play.m3u8?vid=99
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=99&token=NinoEra36
 #EXTINF:-1 tvg-id="vov1" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c1/VOV1_logo_2020.png/revision/latest/scale-to-width-down/200?cb=20241207091446&path-prefix=vi", VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov2" group-title="Radio" tvg-logo="https://vov2.vov.vn/themes/custom/vov_news/logo.png", VOV2
@@ -575,7 +581,7 @@ http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/chunklist_w590656196.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/14/Logo_GTV_Gia_Lai_-_FM_97%2C0MHz%2C_FM_99%2C9MHz%2C_FM_102MHz_m%E1%BB%9Bi.png/revision/latest/scale-to-width-down/985?cb=20250818034448&path-prefix=vi", Gia Lai Radio
-http://14.224.130.186:8000/binhdinh
+https://tv.gialaitv.vn/radio.m3u8
 #EXTINF:-1 tvg-id="hanoi90" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Logo_FM90_MHz_2026.png/revision/latest/scale-to-width-down/180?cb=20260425000829&path-prefix=vi", Hà Nội FM90
 https://freem3u.xyz/api/live/play.m3u8?vid=9905
 #EXTINF:-1 tvg-id="hanoi96" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/Logo_FM96_K%C3%AAnh_Th%E1%BB%9Di_s%E1%BB%B1_t%E1%BB%95ng_h%E1%BB%A3p.png/revision/latest/scale-to-width-down/180?cb=20240119172905&path-prefix=vi", Hà Nội FM96
@@ -591,6 +597,7 @@ http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 #EXTINF:-1 tvg-id="hungyenradio" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/HY_logo_2021_%28Hungyentv_Go%29.png/revision/latest/scale-to-width-down/180?cb=20210919033404&path-prefix=vi", Hưng Yên Radio
 https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bc/Logo_THLC_L%C3%A0o_Cai_FM_97%2C0MHz_2025_m%E1%BB%9Bi.png/revision/latest/scale-to-width-down/180?cb=20250818025928&path-prefix=vi", Lào Cai Radio
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://baolaocai.vn/radio
 #EXTINF:-1 tvg-id="langsonradio" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/Logo_Ph%C3%A1t_thanh_L%E1%BA%A1ng_S%C6%A1n_2025.png/revision/latest/scale-to-width-down/180?cb=20251202034053&path-prefix=vi", Lạng Sơn Radio
 https://stream.langsontv.vn/live/285dabcfc94f52b458688fe7f601524816e/chunklist.m3u8
@@ -609,7 +616,7 @@ https://tructuyen.baoquangtri.vn:5443/WebRTCAppEE/streams/9GwZb90MRel72veq246724
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/STV_Radio.png/revision/latest/scale-to-width-down/180?cb=20250307153202&path-prefix=vi", Sơn La Radio
 http://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/VOT_logo.png/revision/latest/scale-to-width-down/180?cb=20221024043631&path-prefix=vi", Thái Nguyên Radio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://radio.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/Logo_TTV_Tuyen_Quang_92_v%C3%A0_95%2C6MHz_2025.png/revision/latest/scale-to-width-down/180?cb=20250820111546&path-prefix=vi", Tuyên Quang Radio
 https://streaming.tuyenquangtv.vn/channel/tuyenquang_radio/chunks.m3u8
