@@ -573,6 +573,8 @@ https://live.canthotv.vn/live/radiocs2/chunklist_w790093430.m3u8
 https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
 #EXTINF:-1 tvg-id="daklakradio" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/Logo_DRT_Radio_FM_92%2C4MHz_%26_FM_94%2C7MHz_2025_m%E1%BB%9Bi.png/revision/latest/scale-to-width-down/180?cb=20250818030633&path-prefix=vi", Đắk Lắk Radio
 https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/Logo_%C4%90TV_Radio_FM_98MHz_2025_m%E1%BB%9Bi.png/revision/latest/scale-to-width-down/180?cb=20250820101610&path-prefix=vi" Điện Biên Radio
+https://live.mediatech.vn/live/28535437e79046746c1bf9787970a876038/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/dongnaifm.png", Đồng Nai Radio
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/73/TH%C4%90T_98.4MHz.png/revision/latest/scale-to-width-down/180?cb=20250820112029&path-prefix=vi", Đồng Tháp Radio
@@ -584,6 +586,8 @@ http://14.224.130.186:8000/binhdinh
 https://freem3u.xyz/api/live/play.m3u8?vid=9905
 #EXTINF:-1 tvg-id="hanoi96" group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/Logo_FM96_K%C3%AAnh_Th%E1%BB%9Di_s%E1%BB%B1_t%E1%BB%95ng_h%E1%BB%A3p.png/revision/latest/scale-to-width-down/180?cb=20240119172905&path-prefix=vi", Hà Nội FM96
 https://freem3u.xyz/api/live/play.m3u8?vid=9906
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/BHT_Radio.png/revision/latest/scale-to-width-down/180?cb=20250419121849&path-prefix=vi" Hà Tĩnh Radio
+https://cohauw9bgpvod.vcdn.cloud/voht/index.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/Logo_THP_FM_93%2C7_MHz.png/revision/latest/scale-to-width-down/180?cb=20250718155056&path-prefix=vi", Hải Phòng FM 93.7
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Logo_THP_FM_102%2C2_MHz.png/revision/latest/scale-to-width-down/180?cb=20250718155300&path-prefix=vi", Hải Phòng FM 102.2
@@ -606,8 +610,12 @@ https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/chunklist.m3u
 http://103.90.220.236/qtvlive/qnr1.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/93/QNR2_logo.png/revision/latest/scale-to-width-down/180?cb=20210726035548&path-prefix=vi", Quảng Ninh Radio 2
 http://103.90.220.236/qtvlive/qnr2.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/QTTV.png/revision/latest/scale-to-width-down/180?cb=20250705100526&path-prefix=vi", Quảng Trị Radio
+https://tructuyen.baoquangtri.vn:5443/WebRTCAppEE/streams/9GwZb90MRel72veq246724788395010.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/STV_Radio.png/revision/latest/scale-to-width-down/180?cb=20250307153202&path-prefix=vi", Sơn La Radio
 http://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/VOT_logo.png/revision/latest/scale-to-width-down/180?cb=20221024043631&path-prefix=vi", Thái Nguyên Radio
+https://radio.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/Logo_TTV_Tuyen_Quang_92_v%C3%A0_95%2C6MHz_2025.png/revision/latest/scale-to-width-down/180?cb=20250820111546&path-prefix=vi", Tuyên Quang Radio
 https://streaming.tuyenquangtv.vn/channel/tuyenquang_radio/chunks.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/04/Radio_TN_TayNinhTV.png/revision/latest/scale-to-width-down/180?cb=20260106092747&path-prefix=vi", Tây Ninh Radio
