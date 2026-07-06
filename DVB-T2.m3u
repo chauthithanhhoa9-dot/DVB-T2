@@ -96,7 +96,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/ON_Golf_2022.png/revision/latest/scale-to-width-down/200?cb=20230118075014&path-prefix=vi", On Golf
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=169&token=NinoEra36
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/SCTV1_logo.png/revision/latest/scale-to-width-down/200?cb=20220223140645&path-prefix=vi", SCTV1 HD
 https://hoiquan.dpdns.org/VTVGo/?sctv1
