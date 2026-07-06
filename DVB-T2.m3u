@@ -131,18 +131,12 @@ https://hoiquan.dpdns.org/VTVGo/?sctv13
 https://hoiquan.dpdns.org/VTVGo/?sctv14
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/61/SCTV15_logo_2020.png/revision/latest/scale-to-width-down/200?cb=20230819082948&path-prefix=vi", SCTV15 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=342775b97c034332a7c554a4e7bf23c3
-https://hoiquan.dpdns.org/VTVGo/?sctv15
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv15-4aec9a9f
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a1/SCTV16_logo.png/revision/latest/scale-to-width-down/200?cb=20220223140716&path-prefix=vi", SCTV16 HD
 https://hoiquan.dpdns.org/VTVGo/?sctv16
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0a/SCTV17.png/revision/latest/scale-to-width-down/200?cb=20210820120340&path-prefix=vi", SCTV17 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7f11eb9aef04c33b2776cb5b83c038f
-https://hoiquan.dpdns.org/VTVGo/?sctv17
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv17-hd-87f0ff9d
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/SCTV18_logo_2020.png/revision/latest/scale-to-width-down/200?cb=20220223142129&path-prefix=vi", SCTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv18
@@ -157,13 +151,13 @@ https://hoiquan.dpdns.org/VTVGo/?sctv20
 https://hoiquan.dpdns.org/VTVGo/?sctv21
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/60/SCTV22_logo.png/revision/latest/scale-to-width-down/200?cb=20240131093607&path-prefix=vi", SCTV22 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d388dc25
-https://hoiquan.dpdns.org/VTVGo/?sctv22
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv22-d388dc25
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/SCTV_Phim_T%E1%BB%95ng_h%E1%BB%A3p_2020_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20240203101704&path-prefix=vi", SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctvphim
+#EXTINF:-1 group-title="SCTV" tvg-logo="", SCTV 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv-4k
 #EXTINF:-1 group-title="Mua sắm" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/SCJ_TV_Shopping.png/revision/latest?cb=20220130122308&path-prefix=vi", SCJ TV SHOPPING
 https://hoiquan.dpdns.org/VTVGo/?sctv5
 #EXTINF:-1 group-title="Mua sắm" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/Happymall_logo.png/revision/latest/scale-to-width-down/200?cb=20251112152941&path-prefix=vi", HappyMall
@@ -214,7 +208,7 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5d/QPVN.png/revision/latest/scale-to-width-down/200?cb=20220827083916&path-prefix=vi", QPVN HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
+https://live.fptplay53.net/live/media/quocphongvn/live-hls-avc/quocphongvn-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/DRT_HD_logo_testcard_2025.png/revision/latest/scale-to-width-down/200?cb=20250815051751&path-prefix=vi", Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/THP.png/revision/latest/scale-to-width-down/200?cb=20180910165041&path-prefix=vi", Hải Phòng 
