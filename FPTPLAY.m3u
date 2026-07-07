@@ -1,0 +1,202 @@
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"
+#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
+#EXTINF:-1 group-title="FPTPLAY" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1d/FPT_Play_logo.png/revision/latest/scale-to-width-down/200?cb=20260116155002&path-prefix=vi", FPT PLAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/VTV1_08.10.2019%2C_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest/scale-to-width-down/220?cb=20250110114239&path-prefix=vi", VTV1
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/VTV2_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest/scale-to-width-down/220?cb=20250110115119&path-prefix=vi", VTV2
+https://live.fptplay53.net/live/media/v2abr/live247-hls-avc/v2abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/VTV3_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest/scale-to-width-down/220?cb=20260702124107&path-prefix=vi", VTV3
+https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png", VTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/90/VTV5_31.07.2024-nay.png/revision/latest/scale-to-width-down/220?cb=20251006040116&path-prefix=vi", VTV5
+#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
+https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/VTV5_T%C3%A2y_Nam_B%E1%BB%99_02-08-2024.png/revision/latest/scale-to-width-down/220?cb=20241117140519&path-prefix=vi", VTV5 - Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/VTV5_T%C3%A2y_Nguy%C3%AAn_logo_2024.png/revision/latest/scale-to-width-down/220?cb=20241117140626&path-prefix=vi", VTV5 - Tây Nguyên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/VTV6_logo_%282026-nay%29_%282%29.png/revision/latest/scale-to-width-down/220?cb=20260608140603&path-prefix=vi", VTV6
+https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/VTV7_2020%3B_2022-2023%3B_12.06.2025-nay.png/revision/latest/scale-to-width-down/220?cb=20260420044502&path-prefix=vi", VTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/live/media/v7abr/live247-hls-avc/v7abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/VTV8_01-09.01.2020_v%C3%A0_29.06.2022-nay.png/revision/latest/scale-to-width-down/220?cb=20220602112826&path-prefix=vi", VTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/VTV9_01-10.01.2020_v%C3%A0_01.11.2022-nay_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/220?cb=20221101094805&path-prefix=vi", VTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/VTV10_logo_%282026-nay%29.png/revision/latest/scale-to-width-down/220?cb=20260626022012&path-prefix=vi", VTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/Vietnam_Today_v2.png/revision/latest/scale-to-width-down/220?cb=20260701100518&path-prefix=vi", Vietnam Today
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/SCTV6.png/revision/latest/scale-to-width-down/200?cb=20210819100633&path-prefix=vi", SCTV6 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/HTV1_30-12-2024.png/revision/latest/scale-to-width-down/220?cb=20260414043039&path-prefix=vi", HTV1
+https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f6/HTV2_31-12-2024.png/revision/latest/scale-to-width-down/220?cb=20250106011047&path-prefix=vi", HTV2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/HTV3_31-12-2024.png/revision/latest/scale-to-width-down/250?cb=20250219025217", HTV3
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/27/HTV4_2026.png/revision/latest/scale-to-width-down/220?cb=20260424031740&path-prefix=vi", HTV4
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv5" group-title="HTV/HTVC" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/480x72011.jpg", HTV5 Bchannel
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/HTV7_31-12-2024.png/revision/latest/scale-to-width-down/220?cb=20260414043026&path-prefix=vi", HTV7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/HTV9_31-12-2024.png/revision/latest/scale-to-width-down/220?cb=20260414043025&path-prefix=vi", HTV9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/HTV_Th%E1%BB%83_thao_logo_12-2022.png/revision/latest/scale-to-width-down/220?cb=20250507023141&path-prefix=vi", HTV Thể Thao HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/HTVC_Thu%E1%BA%A7n_Vi%E1%BB%87t_logo_2016_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20241219123613&path-prefix=vi", HTVC Thuần Việt HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/HTVC_Gia_%C4%91%C3%ACnh_2018_c%C3%B3_website.png/revision/latest/scale-to-width-down/200?cb=20241219124837&path-prefix=vi", HTVC Gia đình HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6_640_360.png", HTVC Phụ nữ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_640_360.png", HTVC Du lịch Cuộc sống HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/39/HTVC_Ca_nh%E1%BA%A1c_logo_c%C3%B3_website.png/revision/latest/scale-to-width-down/200?cb=20241219125411&path-prefix=vi", HTVC Ca nhạc HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/HTVC_Phim_logo_c%C3%B3_website.png/revision/latest/scale-to-width-down/200?cb=20210921122003&path-prefix=vi", HTVC Phim HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/HTVC%2B_logo_2015_c%C3%B3_website.png/revision/latest/scale-to-width-down/200?cb=20260702103705&path-prefix=vi", HTVC Plus HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/ANTV_HD_logo_ch%C3%ADnh_12-2016.png/revision/latest/scale-to-width-down/200?cb=20240921080552&path-prefix=vi", ANTV HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5d/QPVN.png/revision/latest/scale-to-width-down/200?cb=20220827083916&path-prefix=vi", QPVN HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/live/media/quocphongvn/live-hls-avc/quocphongvn-avc1_4000000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/DRT_HD_logo_testcard_2025.png/revision/latest/scale-to-width-down/200?cb=20250815051751&path-prefix=vi", Đắk Lắk
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+#EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/THP.png/revision/latest/scale-to-width-down/200?cb=20180910165041&path-prefix=vi", Hải Phòng 
+https://live.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_4000000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="haiphong3" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/THP3_2026.png/revision/latest/scale-to-width-down/200?cb=20260101113817&path-prefix=vi", Hải Phòng 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
+#EXTINF:-1 tvg-id="cantho1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho1.png", Cần Thơ 1
+https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cantho2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho2.png", Cần Thơ 2
+https://live.fptplay53.net/epzhd2/cantho02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho3.png", Cần Thơ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="sonla" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/85/STV_HD_Son_La_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20230207071950&path-prefix=vi", Sơn La
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="phutho" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/PTV_Ph%C3%BA_Th%E1%BB%8D_logo_2022.png/revision/latest/scale-to-width-down/200?cb=20260417075032&path-prefix=vi", Phú Thọ
+https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV1HD.png", Đồng Nai 1
+https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV2.png", Đồng Nai 2
+https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/HanoiTV1_2026_b%E1%BA%A3n_6.png/revision/latest/scale-to-width-down/200?cb=20260409041033&path-prefix=vi", Hà Nội 1
+https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/HanoiTV2_2026_b%E1%BA%A3n_3.png/revision/latest/scale-to-width-down/200?cb=20260409040214&path-prefix=vi", Hà Nội 2
+https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="thanhhoa" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/76/Logo_TTV_Thanh_H%C3%B3a_01-07-2026_%28c%C3%B3_website%2C_B%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/200?cb=20260701035450&path-prefix=vi", Thanh Hóa
+https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="quangninh1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/QTV1_HD_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20231028035724&path-prefix=vi", Quảng Ninh 1
+https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="quangninh3" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/QTV3_HD_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20231028035725&path-prefix=vi", Quảng Ninh 3
+https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e9/THVL1_logo_2026_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/220?cb=20260221102549&path-prefix=vi", Vĩnh Long 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/THVL2_logo_2026_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/220?cb=20260221102549&path-prefix=vi", Vĩnh Long 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/THVL3_SD_logo_10.02.2019-2025_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/220?cb=20251125081052&path-prefix=vi", Vĩnh Long 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/THVL4_logo.png/revision/latest/scale-to-width-down/220?cb=20220505105305&path-prefix=vi", Vĩnh Long 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/THVL5_logo_2026_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/220?cb=20260224023722&path-prefix=vi", Vĩnh Long 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="angiang1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/ATV1_logo_09-07-2025.png/revision/latest/scale-to-width-down/200?cb=20251109111844&path-prefix=vi", An Giang 1
+https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/ATV2_logo_07-2025.png/revision/latest/scale-to-width-down/200?cb=20251018044547&path-prefix=vi", An Giang 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/ATV3_logo_09-07-2025_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20251109111343&path-prefix=vi", An Giang 3
+https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ninhbinh" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png", Ninh Bình
+https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="nghean" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821989411/75bfb004e210_640_360.png", Nghệ An
+https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/CTV_Ca_Mau_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20251208130014&path-prefix=vi", Cà Mau
+https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/GTV_Gia_Lai.png/revision/latest/scale-to-width-down/200?cb=20260622142748&path-prefix=vi", Gia Lai
+https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c1/KTV_HD_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20260104081252&path-prefix=vi", Khánh Hòa
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="khanhhoa1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/KTV1_HD_logo.png/revision/latest/scale-to-width-down/200?cb=20260101114307&path-prefix=vi", Khánh Hòa 1
+https://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://i.imgur.com/q5MBibm.png", Huế
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/TN_TayNinhTV_logo.png/revision/latest/scale-to-width-down/155?cb=20251224141706&path-prefix=vi", Tây Ninh
+https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="dongthap1" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292788373/2f4bec83df66_640_360.png", Đồng Tháp 1
+https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="dongthap2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/Mi%E1%BB%81n_T%C3%A2y_TH%C4%90T2_logo_2019-nay.png/revision/latest/scale-to-width-down/200?cb=20260222061035&path-prefix=vi", Đồng Tháp 2
+https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="lamdong1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/LTV1_Lam_Dong_logo.png/revision/latest/scale-to-width-down/200?cb=20260213000053&path-prefix=vi", Lâm Đồng 1
+https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="lamdong2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/LTV2_Lam_Dong_logo.png/revision/latest/scale-to-width-down/200?cb=20260625134004&path-prefix=vi", Lâm Đồng 2
+https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/DNRT1_logo.png/revision/latest/scale-to-width-down/200?cb=20260212223625&path-prefix=vi", Đà Nẵng 1
+https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/DNRT2_logo.png/revision/latest/scale-to-width-down/200?cb=20260212223711&path-prefix=vi", Đà Nẵng 2
+https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="langson" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/LSTV_HD_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/190?cb=20240211043227&path-prefix=vi", Lạng Sơn
+https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="quangtri" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/QTTV.png/revision/latest/scale-to-width-down/200?cb=20250705100526&path-prefix=vi", Quảng Trị
+https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/BHT_TV_logo_c%C3%B3_website.png/revision/latest/scale-to-width-down/200?cb=20250419234452&path-prefix=vi", Hà Tĩnh
+https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/BTV_Bac_Ninh_logo_2026.png/revision/latest/scale-to-width-down/200?cb=20260523004939&path-prefix=vi",Bắc Ninh 
+https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f5/CRTV_logo_2020_%28Cao_Bang%29.svg/revision/latest/scale-to-width-down/180?cb=20240914010620&path-prefix=vi", Cao Bằng
+https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="hungyen" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/HY_logo_2020.png/revision/latest/scale-to-width-down/200?cb=20221103132355&path-prefix=vi", Hưng Yên
+https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="laichau" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/40/Logo_LTV_Lai_Ch%C3%A2u_2022_%28B%E1%BA%A3n_4%29.png/revision/latest/scale-to-width-down/200?cb=20230614141136&path-prefix=vi", Lai Châu
+https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="quangngai" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/QNgTV.png/revision/latest?cb=20260114105729&path-prefix=vi", Quảng Ngãi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="quangngai2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/QNgTV2.png/revision/latest?cb=20260114143705&path-prefix=vi", Quảng Ngãi 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://live.fptplay53.net/epzsd1/quangngai01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="tuyenquang" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/TTV_Tuy%C3%AAn_Quang.png/revision/latest/scale-to-width-down/200?cb=20220731123650&path-prefix=vi", Tuyên Quang
+https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="thainguyen" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/07/01/07/1751329966912/3ddadef93c24_640_360.png", Thái Nguyên
+https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="dienbien" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/%C4%90TV_logo_2019.png/revision/latest?cb=20220225073050&path-prefix=vi", Điện Biên
+https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="laocai" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/THLC_logo_2025.png/revision/latest/scale-to-width-down/190?cb=20260610091118&path-prefix=vi", Lào Cai
+https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8
