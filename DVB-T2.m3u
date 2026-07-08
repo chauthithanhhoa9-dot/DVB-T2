@@ -227,7 +227,7 @@ https://live.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_400000
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
 #EXTINF:-1 tvg-id="cantho1" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho1.png", Cần Thơ 1
 https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cantho2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho2.png", Cần Thơ 2
+#EXTINF:-1 tvg-id="cantho2" group-title="Địa phương 578MHz/8MHz" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho2.png", Cần Thơ 2
 https://live.fptplay53.net/epzhd2/cantho02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cantho3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho3.png", Cần Thơ 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -251,24 +251,24 @@ https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="quangninh3" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/QTV3_HD_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20231028035725&path-prefix=vi", Quảng Ninh 3
 https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e9/THVL1_logo_2026_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/220?cb=20260221102549&path-prefix=vi", Vĩnh Long 1 HD
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương 578MHz/8MHz" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e9/THVL1_logo_2026_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/220?cb=20260221102549&path-prefix=vi", Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1.m3u8
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/THVL2_logo_2026_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/220?cb=20260221102549&path-prefix=vi", Vĩnh Long 2 HD
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương 578MHz/8MHz" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/THVL2_logo_2026_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/220?cb=20260221102549&path-prefix=vi", Vĩnh Long 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/THVL3_SD_logo_10.02.2019-2025_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/220?cb=20251125081052&path-prefix=vi", Vĩnh Long 3 HD
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương 578MHz/8MHz" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/THVL3_SD_logo_10.02.2019-2025_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/220?cb=20251125081052&path-prefix=vi", Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/THVL4_logo.png/revision/latest/scale-to-width-down/220?cb=20220505105305&path-prefix=vi", Vĩnh Long 4 HD
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương 578MHz/8MHz" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/THVL4_logo.png/revision/latest/scale-to-width-down/220?cb=20220505105305&path-prefix=vi", Vĩnh Long 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/THVL5_logo_2026_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/220?cb=20260224023722&path-prefix=vi", Vĩnh Long 5 HD
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa phương 578MHz/8MHz" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/THVL5_logo_2026_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/220?cb=20260224023722&path-prefix=vi", Vĩnh Long 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="angiang1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/ATV1_logo_09-07-2025.png/revision/latest/scale-to-width-down/200?cb=20251109111844&path-prefix=vi", An Giang 1
+#EXTINF:-1 tvg-id="angiang1" group-title="Địa phương 578MHz/8MHz" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/ATV1_logo_09-07-2025.png/revision/latest/scale-to-width-down/200?cb=20251109111844&path-prefix=vi", An Giang 1
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/ATV2_logo_07-2025.png/revision/latest/scale-to-width-down/200?cb=20251018044547&path-prefix=vi", An Giang 2
+#EXTINF:-1 tvg-id="angiang2" group-title="Địa phương 578MHz/8MHz" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/ATV2_logo_07-2025.png/revision/latest/scale-to-width-down/200?cb=20251018044547&path-prefix=vi", An Giang 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/ATV3_logo_09-07-2025_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20251109111343&path-prefix=vi", An Giang 3
@@ -277,7 +277,7 @@ https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="nghean" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600821989411/75bfb004e210_640_360.png", Nghệ An
 http://103.90.220.236/natvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/CTV_Ca_Mau_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20251208130014&path-prefix=vi", Cà Mau
+#EXTINF:-1 tvg-id="camau" group-title="Địa phương 578MHz/8MHz" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/CTV_Ca_Mau_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20251208130014&path-prefix=vi", Cà Mau
 https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/GTV_Gia_Lai.png/revision/latest/scale-to-width-down/200?cb=20260622142748&path-prefix=vi", Gia Lai
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
