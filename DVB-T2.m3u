@@ -262,7 +262,7 @@ https://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="tayninh1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/TN_TayNinhTV_logo.png/revision/latest/scale-to-width-down/155?cb=20251224141706&path-prefix=vi", Tây Ninh
-https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongthap1" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292788373/2f4bec83df66_640_360.png", Đồng Tháp 1
 https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/Mi%E1%BB%81n_T%C3%A2y_TH%C4%90T2_logo_2019-nay.png/revision/latest/scale-to-width-down/200?cb=20260222061035&path-prefix=vi", Đồng Tháp 2
