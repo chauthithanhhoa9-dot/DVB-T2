@@ -301,7 +301,7 @@ https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/DNRT1_logo.png/revision/latest/scale-to-width-down/200?cb=20260212223625&path-prefix=vi", Đà Nẵng 1
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/DNRT2_logo.png/revision/latest/scale-to-width-down/200?cb=20260212223711&path-prefix=vi", Đà Nẵng 2
-https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/playlist.m3u8
+https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="langson" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/LSTV_HD_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/190?cb=20240211043227&path-prefix=vi", Lạng Sơn
 https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="quangtri" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/QTTV.png/revision/latest/scale-to-width-down/200?cb=20250705100526&path-prefix=vi", Quảng Trị
