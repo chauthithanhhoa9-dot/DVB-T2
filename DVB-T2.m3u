@@ -188,7 +188,7 @@ https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=100
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/HTV9_31-12-2024.png/revision/latest/scale-to-width-down/220?cb=20260414043025&path-prefix=vi", HTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/HTV_Th%E1%BB%83_thao_logo_12-2022.png/revision/latest/scale-to-width-down/220?cb=20250507023141&path-prefix=vi", HTV Thể Thao HD
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/HTV_Th%E1%BB%83_thao_logo_12-2022.png/revision/latest/scale-to-width-down/220?cb=20250507023141&path-prefix=vi", HTV Thể Thao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/HTVC_Thu%E1%BA%A7n_Vi%E1%BB%87t_logo_2016_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20241219123613&path-prefix=vi", HTVC Thuần Việt HD
@@ -302,7 +302,7 @@ http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="lamdong2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/LTV2_Lam_Dong_logo.png/revision/latest/scale-to-width-down/200?cb=20260625134004&path-prefix=vi", Lâm Đồng 2
 https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/DNRT1_logo.png/revision/latest/scale-to-width-down/200?cb=20260212223625&path-prefix=vi", Đà Nẵng 1
-https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
+https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/DNRT2_logo.png/revision/latest/scale-to-width-down/200?cb=20260212223711&path-prefix=vi", Đà Nẵng 2
 https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="langson" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/LSTV_HD_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/190?cb=20240211043227&path-prefix=vi", Lạng Sơn
