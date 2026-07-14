@@ -335,7 +335,7 @@ https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_640_360.png", HiTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=32
+https://vmttv.dpdns.org/tv360/?id=hitv
 #EXTINF:-1 tvg-id="youtv" group-title="Địa phương" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png", YouTV
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/Box_Movie_1_logo_2023.png/revision/latest/scale-to-width-down/200?cb=20230515132648&path-prefix=vi", Box Movie 1
@@ -612,9 +612,9 @@ https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cc/Logo_NTV_Ninh_B%C3%ACnh_FM_93%2C3_MHz%2C_95%2C1_MHz%2C_98%2C1_MHz.png/revision/latest/scale-to-width-down/180?cb=20250818074050&path-prefix=vi", Ninh Bình Radio
 https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/14/QNR1_logo.png/revision/latest/scale-to-width-down/180?cb=20210726035504&path-prefix=vi", Quảng Ninh Radio 1
-http://103.90.220.236/qtvlive/qnr1.m3u8
+https://live.mediatech.vn/live/28583edd05362d541958570cad71b5d29cc/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/93/QNR2_logo.png/revision/latest/scale-to-width-down/180?cb=20210726035548&path-prefix=vi", Quảng Ninh Radio 2
-http://103.90.220.236/qtvlive/qnr2.m3u8
+https://live.mediatech.vn/live/285bdee395ca87f4ecd9a56173dfe4ba0e4/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/QTTV.png/revision/latest/scale-to-width-down/180?cb=20250705100526&path-prefix=vi", Quảng Trị Radio
 https://tructuyen.baoquangtri.vn:5443/WebRTCAppEE/streams/9GwZb90MRel72veq246724788395010.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/STV_Radio.png/revision/latest/scale-to-width-down/180?cb=20250307153202&path-prefix=vi", Sơn La Radio
