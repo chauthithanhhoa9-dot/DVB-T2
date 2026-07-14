@@ -45,7 +45,7 @@ https://vmttv.dpdns.org/tv360/?id=vtvcab-2-phim-viet-hd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/THETHAO_HD/manifest.mpd
+https://liveatmvng.vtvprime.vn/live/data8/THETHAO_HD/Live_DASHDRM/THETHAO_HD.mpd
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/ON_Movies_logo.png/revision/latest/scale-to-width-down/200?cb=20221211044023&path-prefix=vi", ON Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/59/ON_E_Channel_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20241022002539&path-prefix=vi", ON Echannel
@@ -55,7 +55,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=182
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/HAY_TV/manifest.mpd
+https://liveatmvng.vtvprime.vn/live/data8/HAY_TV/Live_DASHDRM/HAY_TV.mpd
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/ON_O2TV.png/revision/latest/scale-to-width-down/200?cb=20221211044258&path-prefix=vi", ON O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f5/ON_BiBi_ident_2022.png/revision/latest/scale-to-width-down/200?cb=20230331133312&path-prefix=vi", ON BiBi
@@ -73,7 +73,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=185
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
+https://liveatmvng.vtvprime.vn/live/data8/BONGDA_HD/Live_DASHDRM/BONGDA_HD.mpd
 #EXTINF:-1 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/ON_Trending_TV.png/revision/latest/scale-to-width-down/200?cb=20250401154338&path-prefix=vi", ON TRENDING TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=186
@@ -82,7 +82,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=186
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
+https://liveatmvng.vtvprime.vn/live/data8/THETHAO_TINTUC_HD/Live_DASHDRM/THETHAO_TINTUC_HD.mpd
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/ON_Vie_Dramas.png/revision/latest/scale-to-width-down/200?cb=20240816025529&path-prefix=vi", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=177
