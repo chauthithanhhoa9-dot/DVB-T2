@@ -39,7 +39,7 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/ON_Phim_Vi%E1%BB%87t_logo_17-05-2023.png/revision/latest/scale-to-width-down/200?cb=20230518142320&path-prefix=vi", ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=vtvcab-2-phim-viet-hd
+https://tpninosaga.duckdns.org/tv/getlink/source/tv360.m3u8?id=175&token=NinoXLv78
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON Sports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -97,7 +97,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONGOLF_150x903_1675158871.webp", ON Golf
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
+https://tpninosaga.duckdns.org/tv/getlink/source/tv360.m3u8?id=169&token=NinoXLv78
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/SCTV1_logo.png/revision/latest/scale-to-width-down/200?cb=20220223140645&path-prefix=vi", SCTV1 HD
 https://vmttv.dpdns.org/VTVGo/?sctv1
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/SCTV2_logo_2021.png/revision/latest/scale-to-width-down/200?cb=20211030113439&path-prefix=vi", SCTV2 HD
@@ -243,7 +243,7 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV3.png", Đồng Nai 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
+https://tpninosaga.duckdns.org/tv/getlink/source/vieon.m3u8?id=dongnai3&token=NinoXLv78
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/HanoiTV1_2026_b%E1%BA%A3n_6.png/revision/latest/scale-to-width-down/200?cb=20260409041033&path-prefix=vi", Hà Nội 1
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/HanoiTV2_2026_b%E1%BA%A3n_3.png/revision/latest/scale-to-width-down/200?cb=20260409040214&path-prefix=vi", Hà Nội 2
