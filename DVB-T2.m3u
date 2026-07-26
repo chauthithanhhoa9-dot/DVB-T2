@@ -314,14 +314,14 @@ https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/BTV_Bac_Ninh_logo_2026.png/revision/latest/scale-to-width-down/200?cb=20260523004939&path-prefix=vi",Bắc Ninh 
 https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f5/CRTV_logo_2020_%28Cao_Bang%29.svg/revision/latest/scale-to-width-down/180?cb=20240914010620&path-prefix=vi", Cao Bằng
-http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
+https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hungyen" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/HY_logo_2020.png/revision/latest/scale-to-width-down/200?cb=20221103132355&path-prefix=vi", Hưng Yên
-https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
-#EXTINF:-1 tvg-id="laichau" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/40/Logo_LTV_Lai_Ch%C3%A2u_2022_%28B%E1%BA%A3n_4%29.png/revision/latest/scale-to-width-down/200?cb=20230614141136&path-prefix=vi", Lai Châu
 https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="laichau" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/40/Logo_LTV_Lai_Ch%C3%A2u_2022_%28B%E1%BA%A3n_4%29.png/revision/latest/scale-to-width-down/200?cb=20230614141136&path-prefix=vi", Lai Châu
+https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="quangngai" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/QNgTV1.png/revision/latest/scale-to-width-down/200?cb=20260114143704&path-prefix=vi", Quảng Ngãi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
+https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="quangngai2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/QNgTV2.png/revision/latest?cb=20260114143705&path-prefix=vi", Quảng Ngãi 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.fptplay53.net/epzsd1/quangngai01_hls.smil/chunklist_b2500000.m3u8
@@ -335,7 +335,7 @@ https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hitv" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_640_360.png", HiTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vmttv.dpdns.org/tv360/?id=hitv
+https://tpninosaga.duckdns.org/tv/getlink/source/tv360.m3u8?id=32&token=NinoXLv78
 #EXTINF:-1 tvg-id="youtv" group-title="Địa phương" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png", YouTV
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/Box_Movie_1_logo_2023.png/revision/latest/scale-to-width-down/200?cb=20230515132648&path-prefix=vi", Box Movie 1
