@@ -35,6 +35,12 @@ https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/Vietnam_Today_v2.png/revision/latest/scale-to-width-down/220?cb=20260701100518&path-prefix=vi", Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="OnHomeShopping" group-title="📺 VTVcab" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/hom.png", On HomeShopping
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2135c7e9270b43b38032d56807b23575:873b9f0fb133179a428655502be16ef0
+https://livevlisctcdnw.seenow.vn/mean/VTVCAB13/manifest.mpd
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/ON_Vie_Gi%E1%BA%A3i_tr%C3%AD.png/revision/latest/scale-to-width-down/200?cb=20240817111510&path-prefix=vi", ON Vie Giải Trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/ON_Phim_Vi%E1%BB%87t_logo_17-05-2023.png/revision/latest/scale-to-width-down/200?cb=20230518142320&path-prefix=vi", ON Phim Việt
