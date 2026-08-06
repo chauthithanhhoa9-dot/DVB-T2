@@ -251,8 +251,7 @@ https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV2.png", Đồng Nai 2
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV3.png", Đồng Nai 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
+https://live.fptplay53.net/epzsd1/dongnai3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/HanoiTV1_2026_b%E1%BA%A3n_6.png/revision/latest/scale-to-width-down/200?cb=20260409041033&path-prefix=vi", Hà Nội 1
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/HanoiTV2_2026_b%E1%BA%A3n_3.png/revision/latest/scale-to-width-down/200?cb=20260409040214&path-prefix=vi", Hà Nội 2
