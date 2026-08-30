@@ -164,7 +164,7 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/SCTV_Phim_T%E1%BB%95ng_h%E1%BB%A3p_2020_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20240203101704&path-prefix=vi", SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctvphim
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/SCTV_4K.png/revision/latest/scale-to-width-down/200?cb=20251220092843&path-prefix=vi", SCTV 4K
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/SCTV_4K.png/revision/latest/scale-to-width-down/200?cb=20251220092843&path-prefix=vi", SCTV4K
 https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 #EXTINF:-1 group-title="Mua sắm" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/SCJ_TV_Shopping.png/revision/latest?cb=20220130122308&path-prefix=vi", SCJ TV SHOPPING
 https://vmttv.dpdns.org/VTVGo/?sctv5
@@ -199,7 +199,7 @@ https://live.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=100
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/HTV_Th%E1%BB%83_thao_logo_12-2022.png/revision/latest/scale-to-width-down/220?cb=20250507023141&path-prefix=vi", HTV Thể Thao HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/HTVC_Thu%E1%BA%A7n_Vi%E1%BB%87t_logo_2016_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20241219123613&path-prefix=vi", HTVC Thuần Việt HD
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/HTVC_Thu%E1%BA%A7n_Vi%E1%BB%87t_logo_2016_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/200?cb=20241219123613&path-prefix=vi", HTVC Thuần Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/HTVC_Gia_%C4%91%C3%ACnh_2018_c%C3%B3_website.png/revision/latest/scale-to-width-down/200?cb=20241219124837&path-prefix=vi", HTVC Gia đình HD
@@ -250,7 +250,8 @@ https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV2.png", Đồng Nai 2
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV3.png", Đồng Nai 3
-https://live.fptplay53.net/epzsd1/dongnai3_hls.smil/chunklist_b2500000.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/HanoiTV1_2026_b%E1%BA%A3n_6.png/revision/latest/scale-to-width-down/200?cb=20260409041033&path-prefix=vi", Hà Nội 1
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/HanoiTV2_2026_b%E1%BA%A3n_3.png/revision/latest/scale-to-width-down/200?cb=20260409040214&path-prefix=vi", Hà Nội 2
@@ -363,13 +364,13 @@ https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
-#EXTINF:-1 tvg-id="musicboxhd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/74/Music_Box.png/revision/latest/scale-to-width-down/200?cb=20231220003224&path-prefix=vi", Music Box HD
+#EXTINF:-1 tvg-id="musicboxhd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/74/Music_Box.png/revision/latest/scale-to-width-down/200?cb=20231220003224&path-prefix=vi", Music Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
 https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
-#EXTINF:-1 tvg-id="womanhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman HD
+#EXTINF:-1 tvg-id="womanhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -396,7 +397,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
-#EXTINF:-1 tvg-id="cartoonnetworkhd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/61/Cartoon_Network_version_2.png/revision/latest/scale-to-width-down/220?cb=20250613035242&path-prefix=vi", Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/61/Cartoon_Network_version_2.png/revision/latest/scale-to-width-down/220?cb=20250613035242&path-prefix=vi", Cartoon Network
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -408,7 +409,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
-#EXTINF:-1 tvg-id="dreamworkshd" group-title="Quốc Tế" tvg-logo="https://s7266.cdn.mytvnet.vn/vimages/de/eb/ba/a7/7e/ee/deba7-pdreamworkshd-channel-unkn.png", Dreamworks HD
+#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://s7266.cdn.mytvnet.vn/vimages/de/eb/ba/a7/7e/ee/deba7-pdreamworkshd-channel-unkn.png", Dreamworks
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -456,13 +457,13 @@ https://live.fptplay53.net/fnxhd1/cnbchd_vhls.smil/chunklist_b5000000.m3u8
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/CNA_logo.png/revision/latest/scale-to-width-down/180?cb=20211220035948&path-prefix=vi", Channel News Asia
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest/scale-to-width-down/180?cb=20251019134025&path-prefix=vi", TV5 Monde
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest/scale-to-width-down/180?cb=20251019134025&path-prefix=vi", TV5Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/DW_2012.png/revision/latest/scale-to-width-down/200?cb=20230418025243&path-prefix=vi", DW HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="davincihd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/Da_Vinci_TV.png/revision/latest/scale-to-width-down/180?cb=20231123014725&path-prefix=vi", DaVinci HD
+#EXTINF:-1 tvg-id="davincihd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/Da_Vinci_TV.png/revision/latest/scale-to-width-down/180?cb=20231123014725&path-prefix=vi", DaVinci
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/03/France_24_in_Engilsh.png/revision/latest/scale-to-width-down/152?cb=20231101092159&path-prefix=vi", France 24 English
@@ -498,7 +499,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
-#EXTINF:-1 tvg-id="outdoor" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/Outdoor.png/revision/latest/scale-to-width-down/200?cb=20231230015001&path-prefix=vi", Outdoor Channel HD
+#EXTINF:-1 tvg-id="outdoor" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/Outdoor.png/revision/latest/scale-to-width-down/200?cb=20231230015001&path-prefix=vi", Outdoor Channel
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8a/History_TV_2022.png/revision/latest/scale-to-width-down/180?cb=20240404091511&path-prefix=vi", History HD
