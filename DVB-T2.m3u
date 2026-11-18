@@ -387,13 +387,13 @@ https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
-#EXTINF:-1 tvg-id="musicboxhd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/74/Music_Box.png/revision/latest/scale-to-width-down/200?cb=20231220003224&path-prefix=vi", Music Box
+#EXTINF:-1 tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/74/Music_Box.png/revision/latest/scale-to-width-down/200?cb=20231220003224&path-prefix=vi", Music Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
 https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
-#EXTINF:-1 tvg-id="womanhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
+#EXTINF:-1 tvg-id="woman" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -483,13 +483,13 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/CNA_logo.png/revision/latest/scale-to-width-down/180?cb=20211220035948&path-prefix=vi", Channel News Asia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=112
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest/scale-to-width-down/180?cb=20251019134025&path-prefix=vi", TV5Monde
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest/scale-to-width-down/180?cb=20251019134025&path-prefix=vi", TV5Monde
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9852
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/DW_2012.png/revision/latest/scale-to-width-down/200?cb=20230418025243&path-prefix=vi", DW
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=109
-#EXTINF:-1 tvg-id="davincihd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/Da_Vinci_TV.png/revision/latest/scale-to-width-down/180?cb=20231123014725&path-prefix=vi", Da Vinci
+#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/Da_Vinci_TV.png/revision/latest/scale-to-width-down/180?cb=20231123014725&path-prefix=vi", Da Vinci
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=214
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/03/France_24_in_Engilsh.png/revision/latest/scale-to-width-down/152?cb=20231101092159&path-prefix=vi", France 24 English
